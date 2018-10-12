@@ -1,0 +1,185 @@
+MF169760.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Apr-2015
+MF169759.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Apr-2014
+MF169758.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2014-11
+MF169757.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2014-12
+MF169756.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2014
+MF169755.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Mar-2015
+MF169754.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jan-2015
+MF169753.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2014
+MF169752.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2014
+MF169751.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Apr-2015
+MF169750.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Jun-2014
+MF169749.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Jun-2014
+MF169748.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Jan-2013
+MF169747.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Mar-2013
+MF169746.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Apr-2013
+MF169745.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2012
+MF169744.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2012
+MF169743.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2012
+MF169742.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2012
+MF169741.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2014
+MF169740.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Mar-2013
+MF169739.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2012-12
+MF169738.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2012-12
+MF169737.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Sep-2012
+MF169736.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Mar-2015
+MF169735.1	Porcine circovirus 2	pig	Taiwan: Yunlin	May-2013
+MF169734.1	Porcine circovirus 2	pig	Taiwan: Yunlin	May-2013
+MF169733.1	Porcine circovirus 2	pig	Taiwan: Yunlin	May-2013
+MF169732.1	Porcine circovirus 2	pig	Taiwan: Yunlin	May-2015
+MF169731.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Feb-2015
+MF169730.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Apr-2014
+MF169729.1	Porcine circovirus 2	pig	Taiwan: Chiayi	Jul-2014
+MF169728.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Mar-2015
+MF169727.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jan-2015
+MF169726.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jan-2015
+MF169725.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2014-12
+MF169724.1	Porcine circovirus 2	pig	Taiwan: Pingtung	May-2014
+MF169723.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jan-2015
+MF169722.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Feb-2014
+MF169721.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jun-2014
+MF169720.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Aug-2014
+MF169719.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2017-02-07
+MF169718.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2017-02-07
+MF169717.1	Porcine circovirus 2	pig	Taiwan: Kaohsiung	2017-02-06
+MF169716.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2017-02-02
+MF169715.1	Porcine circovirus 2	pig	Taiwan: Changhua	2017-01-18
+MF169714.1	Porcine circovirus 2	pig	Taiwan: Kaohsiung	2017-01-16
+MF169713.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2017-01-10
+MF169712.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-11-23
+MF169711.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-11-18
+MF169710.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-11-04
+MF169709.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-11-03
+MF169708.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-10-18
+MF169707.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-10-17
+MF169706.1	Porcine circovirus 2	pig	Taiwan: Kaohsiung	2016-10-17
+MF169705.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-10-17
+MF169704.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-10-06
+MF169703.1	Porcine circovirus 2	pig	Taiwan: Changhua	2016-09-23
+MF169702.1	Porcine circovirus 2	pig	Taiwan: Changhua	2016-09-23
+MF169701.1	Porcine circovirus 2	pig	Taiwan: Chiayi	2016-09-20
+MF169700.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-09-19
+MF169699.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-09-01
+MF169698.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-08-24
+MF169697.1	Porcine circovirus 2	pig	Taiwan: Yunlin	2016-08-15
+MF169696.1	Porcine circovirus 2	pig	Taiwan: Yunlin	2016-08-12
+MF169695.1	Porcine circovirus 2	pig	Taiwan: Yunlin	2016-08-12
+MF169694.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-08-10
+MF169693.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-08-08
+MF169692.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-08-08
+MF169691.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-08-05
+MF169690.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-08-05
+MF169689.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-08-04
+MF169688.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-08-04
+MF169687.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-08-02
+MF169686.1	Porcine circovirus 2	pig	Taiwan: Kaohsiung	2016-08-02
+MF169685.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-29
+MF169684.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-29
+MF169683.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-26
+MF169682.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-20
+MF169681.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-20
+MF169680.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-19
+MF169679.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-12
+MF169678.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-06-23
+MF169677.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-05-11
+MF169676.1	Porcine circovirus 2	pig	Taiwan: Yunlin	2016-04-28
+MF169675.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-04-21
+MF169674.1	Porcine circovirus 2	pig	Taiwan: Tainan	2016-04-12
+MF169673.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-04-08
+MF169672.1	Porcine circovirus 2	pig	Taiwan: Kaohsiung	2016-03-31
+MF169671.1	Porcine circovirus 2	pig	Taiwan: Yunlin	2016-03-02
+MF169670.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-03-01
+MF169669.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-09-02
+MF169668.1	Porcine circovirus 2	pig	Taiwan	2016-08-19
+MF169667.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-29
+MF169666.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-29
+MF169665.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-29
+MF169664.1	Porcine circovirus 2	pig	Taiwan: Pingtung	2016-07-29
+MF169663.1	Porcine circovirus 2	pig	Taiwan: Changhua	2016-07-14
+MF169662.1	Porcine circovirus 2	pig	Taiwan: Changhua	2016-06-23
+MF169661.1	Porcine circovirus 2	pig	Taiwan: Changhua	2016-06-23
+MF169660.1	Porcine circovirus 2	pig	Taiwan: Changhua	2016-06-23
+JQ390467.1	Porcine circovirus 2	pig with post-weaning multisystemic wasting	Taiwan	2006
+HQ202973.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202972.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202971.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202970.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202969.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202968.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202967.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202966.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202965.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202964.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202963.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202962.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202961.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202960.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202959.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202958.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202957.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202956.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202955.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202954.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202953.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202952.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202951.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202950.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202949.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202948.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202947.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202946.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202945.1	Porcine circovirus 2	pig	Taiwan	-
+HQ202944.1	Porcine circovirus 2	pig	Taiwan	-
+GU244507.1	Porcine circovirus 2	pig	Taiwan	-
+GU244506.1	Porcine circovirus 2	pig	Taiwan	-
+JF927990.1	Porcine circovirus 2	pig	Taiwan: Kaohsuing	Jul-2010
+JF927989.1	Porcine circovirus 2	pig	Taiwan: Tainan	Apr-2010
+JF927988.1	Porcine circovirus 2	pig	Taiwan: Kaohsuing	Apr-2010
+JF927987.1	Porcine circovirus 2	pig	Taiwan: Tainan	Apr-2010
+JF927986.1	Porcine circovirus 2	pig	Taiwan: Tainan	Apr-2010
+JF927985.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Apr-2010
+JF927984.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Apr-2010
+JF927983.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Dec-2007
+JF927982.1	Porcine circovirus 2	pig	Taiwan: Taitung	Sep-2003
+JF927981.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Apr-2003
+JF927980.1	Porcine circovirus 2	pig	Taiwan: Changhua	Mar-2003
+JF927979.1	Porcine circovirus 2	pig	Taiwan: Taitung	Apr-2002
+JF927978.1	Porcine circovirus 2	pig	Taiwan: Miaoli	Mar-2002
+JF927977.1	Porcine circovirus 2	pig	Taiwan: Changhua	Feb-2002
+JF927976.1	Porcine circovirus 2	pig	Taiwan: Kaohsuing	Jul-2002
+JF683408.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Sep-2009
+JF683407.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jun-2009
+JF683406.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2010
+JF683405.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Sep-2010
+JF683404.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jun-2009
+JF683403.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Oct-2007
+JF683402.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Apr-2010
+JF683401.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Dec-2008
+JF683400.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Dec-2006
+JF683399.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jan-2010
+JF683398.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Mar-2007
+JF683397.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Jul-2007
+JF683396.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Nov-2005
+JF683395.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Dec-2010
+JF683394.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Dec-2010
+JF683393.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Dec-2010
+JF683392.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Dec-2010
+JF683391.1	Porcine circovirus 2	pig	Taiwan: Yunlin	Apr-2003
+JF683390.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Aug-2002
+JF683389.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Mar-2011
+JF683388.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Feb-2003
+JF683387.1	Porcine circovirus 2	pig	Taiwan: Pingtung	Feb-2002
+GQ911590.1	Porcine circovirus 2	pig with post-weaning multisystemic wasting syndrome (PMWS)	Taiwan: Tai-Dong	2007
+AF465211.1	Porcine circovirus 2	pig	Taiwan	-
+AY219836.1	Porcine circovirus 1	Pig	Taiwan	-
+AY180397.1	Porcine circovirus 2	-	Taiwan	-
+AY146993.1	Porcine circovirus 2	-	Taiwan	-
+AY146992.1	Porcine circovirus 2	-	Taiwan	-
+AY146991.1	Porcine circovirus 2	-	Taiwan	-
+AY885224.1	Porcine circovirus 2	-	-	-
+AF305533.1	Porcine circovirus 2	pig	Taiwan	-
+AF305532.1	Porcine circovirus 2	pig	Taiwan	-
+AF364094.1	Porcine circovirus 2	-	Taiwan	-
+AF166528.1	Porcine circovirus 2	-	Taiwan	-
+AF154679.1	Porcine circovirus 2	-	Taiwan	-
+AY885225.1	Porcine circovirus 2	-	-	-

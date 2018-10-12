@@ -1,0 +1,882 @@
+AF202256.1	Influenza A virus (A/teal/Taiwan/WB2-37-2TPFE2/98(H7N1))	-	-	-
+KT327415.1	Influenza A virus (A/Bulbul/Taiwan/01156/2015(H5N3))	Bulbul	Taiwan	15-Jan-2015
+KT327414.1	Influenza A virus (A/Bulbul/Taiwan/01156/2015(H5N3))	Bulbul	Taiwan	15-Jan-2015
+KT327413.1	Influenza A virus (A/Bulbul/Taiwan/01156/2015(H5N3))	Bulbul	Taiwan	15-Jan-2015
+KT327412.1	Influenza A virus (A/Bulbul/Taiwan/01156/2015(H5N3))	Bulbul	Taiwan	15-Jan-2015
+KT327411.1	Influenza A virus (A/Bulbul/Taiwan/01156/2015(H5N3))	Bulbul	Taiwan	15-Jan-2015
+KT327410.1	Influenza A virus (A/Bulbul/Taiwan/01156/2015(H5N3))	Bulbul	Taiwan	15-Jan-2015
+KT327409.1	Influenza A virus (A/Bulbul/Taiwan/01156/2015(H5N3))	Bulbul	Taiwan	15-Jan-2015
+KT327408.1	Influenza A virus (A/Bulbul/Taiwan/01156/2015(H5N3))	Bulbul	Taiwan	15-Jan-2015
+KT327407.1	Influenza A virus (A/thrush/Taiwan/A234/2015(H5N2))	thrush	Taiwan	17-Jan-2015
+KT327406.1	Influenza A virus (A/thrush/Taiwan/A234/2015(H5N2))	thrush	Taiwan	17-Jan-2015
+KT327405.1	Influenza A virus (A/thrush/Taiwan/A234/2015(H5N2))	thrush	Taiwan	17-Jan-2015
+KT327404.1	Influenza A virus (A/thrush/Taiwan/A234/2015(H5N2))	thrush	Taiwan	17-Jan-2015
+KT327403.1	Influenza A virus (A/thrush/Taiwan/A234/2015(H5N2))	thrush	Taiwan	17-Jan-2015
+KT327402.1	Influenza A virus (A/thrush/Taiwan/A234/2015(H5N2))	thrush	Taiwan	17-Jan-2015
+KT327401.1	Influenza A virus (A/thrush/Taiwan/A234/2015(H5N2))	thrush	Taiwan	17-Jan-2015
+KT327400.1	Influenza A virus (A/thrush/Taiwan/A234/2015(H5N2))	thrush	Taiwan	17-Jan-2015
+KT327399.1	Influenza A virus (A/night heron/Taiwan/A289/2015(H5N2))	night heron	Taiwan	19-Jan-2015
+KT327398.1	Influenza A virus (A/night heron/Taiwan/A289/2015(H5N2))	night heron	Taiwan	19-Jan-2015
+KT327397.1	Influenza A virus (A/night heron/Taiwan/A289/2015(H5N2))	night heron	Taiwan	19-Jan-2015
+KT327396.1	Influenza A virus (A/night heron/Taiwan/A289/2015(H5N2))	night heron	Taiwan	19-Jan-2015
+KT327395.1	Influenza A virus (A/night heron/Taiwan/A289/2015(H5N2))	night heron	Taiwan	19-Jan-2015
+KT327394.1	Influenza A virus (A/night heron/Taiwan/A289/2015(H5N2))	night heron	Taiwan	19-Jan-2015
+KT327393.1	Influenza A virus (A/night heron/Taiwan/A289/2015(H5N2))	night heron	Taiwan	19-Jan-2015
+KT327392.1	Influenza A virus (A/night heron/Taiwan/A289/2015(H5N2))	night heron	Taiwan	19-Jan-2015
+DQ431990.1	Influenza A virus (A/swine/Taiwan/CO935/2004(H1N2))	-	Taiwan	-
+GU066568.1	Influenza A virus (A/duck/Taiwan/wb1158/2006(H4N6))	duck; wild bird	Taiwan	Nov-2006
+GU066567.1	Influenza A virus (A/duck/Taiwan/wb1153/2006(H4N6))	duck; wild bird	Taiwan	Nov-2006
+GU066566.1	Influenza A virus (A/duck/Taiwan/wb1111/2006(H4N6))	duck; wild bird	Taiwan	Sep-2006
+GU066565.1	Influenza A virus (A/duck/Taiwan/wb1104/2006(H4N6))	duck; wild bird	Taiwan	Nov-2006
+GU066564.1	Influenza A virus (A/duck/Taiwan/wb1101/2006(H4N6))	duck; wild bird	Taiwan	Sep-2006
+GU066563.1	Influenza A virus (A/duck/Taiwan/wb917/2006(H4N6))	duck; wild bird	Taiwan	Jan-2006
+GU066562.1	Influenza A virus (A/duck/Taiwan/wb884/2005(H4N6))	duck; wild bird	Taiwan	Dec-2005
+GU066561.1	Influenza A virus (A/duck/Taiwan/wb787/2005(H4N2))	duck; wild bird	Taiwan	Nov-2005
+GU066560.1	Influenza A virus (A/duck/Taiwan/wb764/2005(H4N6))	duck; wild bird	Taiwan	Oct-2005
+GU066559.1	Influenza A virus (A/duck/Taiwan/wb551/2005(H4N6))	duck; wild bird	Taiwan	Jan-2005
+GU066558.1	Influenza A virus (A/duck/Taiwan/wb499/2004(H4N6))	duck; wild bird	Taiwan	Nov-2004
+GU066557.1	Influenza A virus (A/duck/Taiwan/wb471/2004(H4N6))	duck; wild bird	Taiwan	Oct-2004
+GU066556.1	Influenza A virus (A/duck/Taiwan/wb281/2002(H4N6))	duck; wild bird	Taiwan	Dec-2002
+GU066555.1	Influenza A virus (A/duck/Taiwan/wb147/2001(H4N6))	duck; wild bird	Taiwan	Oct-2001
+GU066554.1	Influenza A virus (A/duck/Taiwan/wb131/2001(H4N8))	duck; wild bird	Taiwan	Oct-2001
+GU066553.1	Influenza A virus (A/duck/Taiwan/wb51/1999(H4N6))	duck; wild bird	Taiwan	Jan-1999
+GU066552.1	Influenza A virus (A/duck/Taiwan/wb45/1998(H4N7))	duck; wild bird	Taiwan	Dec-1998
+GU066551.1	Influenza A virus (A/duck/Taiwan/wb39/1998(H4N6))	duck; wild bird	Taiwan	Dec-1998
+GU066550.1	Influenza A virus (A/duck/Taiwan/wb30/1999(H4N6))	duck; wild bird	Taiwan	Nov-1999
+GU066549.1	Influenza A virus (A/duck/Taiwan/wb29/1998(H4N8))	duck; wild bird	Taiwan	Nov-1998
+GU066548.1	Influenza A virus (A/duck/Taiwan/wb28/2000(H4N6))	duck; wild bird	Taiwan	Feb-2000
+GU066547.1	Influenza A virus (A/duck/Taiwan/wb25/1999(H4N6))	duck; wild bird	Taiwan	Nov-1999
+GU066546.1	Influenza A virus (A/duck/Taiwan/wb24/1998(H4N6))	duck; wild bird	Taiwan	Nov-1998
+GU066545.1	Influenza A virus (A/duck/Taiwan/wb14/1998(H4N6))	duck; wild bird	Taiwan	Oct-1998
+GU066544.1	Influenza A virus (A/duck/Taiwan/wb9/1998(H4N6))	duck; wild bird	Taiwan	Oct-1998
+GU066543.1	Influenza A virus (A/duck/Taiwan/wb7/1999(H4N6))	duck; wild bird	Taiwan	Sep-1999
+GU066542.1	Influenza A virus (A/duck/Taiwan/wb1/1998(H4N2))	duck; wild bird	Taiwan	Sep-1998
+GU066541.1	Influenza A virus (A/duck/Taiwan/wb1162/2006(H4N6))	duck; wild bird	Taiwan	Nov-2006
+GQ404590.1	Influenza A virus (A/swine/Taiwan/1969(H3N2))	swine	Taiwan	1969
+AF310991.1	Influenza A virus (A/mallard duck/Alberta/342/1983(H12N1))	-	-	-
+AF310990.1	Influenza A virus (A/ruddy turnstone/Delaware/67/1998(H12N4))	-	-	-
+AF310988.1	Influenza A virus (A/mallard/Alberta/357/1984(H8N4))	-	-	-
+AF310987.1	Influenza A virus (A/pintail duck/Alberta/114/1979(H8N4))	-	-	-
+AF310986.1	Influenza A virus (A/Duck/Taiwan/g9/89(H11N?))	-	-	-
+AF310985.1	Influenza A virus (A/chicken/Taiwan/ns2/99(H6N1))	-	-	-
+AF310984.1	Influenza A virus (A/chicken/Taiwan/na3/98(H6N1))	-	-	-
+AF310983.1	Influenza A virus (A/chicken/Taiwan/7-5/99(H6N1))	-	-	-
+AF311750.1	Influenza A virus (A/shorebird/Taiwan/31/99(H10N7))	-	-	-
+KU646945.1	Influenza A virus (A/goose/Taiwan/01039/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646944.1	Influenza A virus (A/goose/Taiwan/01039/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646943.1	Influenza A virus (A/goose/Taiwan/01039/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646942.1	Influenza A virus (A/goose/Taiwan/01039/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646941.1	Influenza A virus (A/goose/Taiwan/01039/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646940.1	Influenza A virus (A/goose/Taiwan/01039/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646939.1	Influenza A virus (A/goose/Taiwan/01039/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646938.1	Influenza A virus (A/goose/Taiwan/01039/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646937.1	Influenza A virus (A/goose/Taiwan/01026/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646936.1	Influenza A virus (A/goose/Taiwan/01026/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646935.1	Influenza A virus (A/goose/Taiwan/01026/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646934.1	Influenza A virus (A/goose/Taiwan/01026/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646933.1	Influenza A virus (A/goose/Taiwan/01026/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646932.1	Influenza A virus (A/goose/Taiwan/01026/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646931.1	Influenza A virus (A/goose/Taiwan/01026/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646930.1	Influenza A virus (A/goose/Taiwan/01026/2015(H5N8))	goose	Taiwan	12-Jan-2015
+KU646929.1	Influenza A virus (A/goose/Taiwan/01019/2015(H5N8))	goose	Taiwan	11-Jan-2015
+KU646928.1	Influenza A virus (A/goose/Taiwan/01019/2015(H5N8))	goose	Taiwan	11-Jan-2015
+KU646927.1	Influenza A virus (A/goose/Taiwan/01019/2015(H5N8))	goose	Taiwan	11-Jan-2015
+KU646926.1	Influenza A virus (A/goose/Taiwan/01019/2015(H5N8))	goose	Taiwan	11-Jan-2015
+KU646925.1	Influenza A virus (A/goose/Taiwan/01019/2015(H5N8))	goose	Taiwan	11-Jan-2015
+KU646924.1	Influenza A virus (A/goose/Taiwan/01019/2015(H5N8))	goose	Taiwan	11-Jan-2015
+KU646923.1	Influenza A virus (A/goose/Taiwan/01019/2015(H5N8))	goose	Taiwan	11-Jan-2015
+KU646922.1	Influenza A virus (A/goose/Taiwan/01019/2015(H5N8))	goose	Taiwan	11-Jan-2015
+KU646921.1	Influenza A virus (A/duck/Taiwan/A3400/2015(H5N8))	duck	Taiwan	08-Feb-2015
+KU646920.1	Influenza A virus (A/duck/Taiwan/A3400/2015(H5N8))	duck	Taiwan	08-Feb-2015
+KU646919.1	Influenza A virus (A/duck/Taiwan/A3400/2015(H5N8))	duck	Taiwan	08-Feb-2015
+KU646918.1	Influenza A virus (A/duck/Taiwan/A3400/2015(H5N8))	duck	Taiwan	08-Feb-2015
+KU646917.1	Influenza A virus (A/duck/Taiwan/A3400/2015(H5N8))	duck	Taiwan	08-Feb-2015
+KU646916.1	Influenza A virus (A/duck/Taiwan/A3400/2015(H5N8))	duck	Taiwan	08-Feb-2015
+KU646915.1	Influenza A virus (A/duck/Taiwan/A3400/2015(H5N8))	duck	Taiwan	08-Feb-2015
+KU646914.1	Influenza A virus (A/duck/Taiwan/A3400/2015(H5N8))	duck	Taiwan	08-Feb-2015
+KU646913.1	Influenza A virus (A/chicken/Taiwan/01174/2015(H5N3))	chicken	Taiwan	16-Jan-2015
+KU646912.1	Influenza A virus (A/chicken/Taiwan/01174/2015(H5N3))	chicken	Taiwan	16-Jan-2015
+KU646911.1	Influenza A virus (A/chicken/Taiwan/01174/2015(H5N3))	chicken	Taiwan	16-Jan-2015
+KU646910.1	Influenza A virus (A/chicken/Taiwan/01174/2015(H5N3))	chicken	Taiwan	16-Jan-2015
+KU646909.1	Influenza A virus (A/chicken/Taiwan/01174/2015(H5N3))	chicken	Taiwan	16-Jan-2015
+KU646908.1	Influenza A virus (A/chicken/Taiwan/01174/2015(H5N3))	chicken	Taiwan	16-Jan-2015
+KU646907.1	Influenza A virus (A/chicken/Taiwan/01174/2015(H5N3))	chicken	Taiwan	16-Jan-2015
+KU646906.1	Influenza A virus (A/chicken/Taiwan/01174/2015(H5N3))	chicken	Taiwan	16-Jan-2015
+KU646905.1	Influenza A virus (A/goose/Taiwan/01038/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KU646904.1	Influenza A virus (A/goose/Taiwan/01038/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KU646903.1	Influenza A virus (A/goose/Taiwan/01038/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KU646902.1	Influenza A virus (A/goose/Taiwan/01038/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KU646901.1	Influenza A virus (A/goose/Taiwan/01038/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KU646900.1	Influenza A virus (A/goose/Taiwan/01038/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KU646899.1	Influenza A virus (A/goose/Taiwan/01038/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KU646898.1	Influenza A virus (A/goose/Taiwan/01038/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KU646897.1	Influenza A virus (A/goose/Taiwan/01040/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646896.1	Influenza A virus (A/goose/Taiwan/01040/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646895.1	Influenza A virus (A/goose/Taiwan/01040/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646894.1	Influenza A virus (A/goose/Taiwan/01040/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646893.1	Influenza A virus (A/goose/Taiwan/01040/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646892.1	Influenza A virus (A/goose/Taiwan/01040/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646891.1	Influenza A virus (A/goose/Taiwan/01040/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646890.1	Influenza A virus (A/goose/Taiwan/01040/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646889.1	Influenza A virus (A/goose/Taiwan/01031/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646888.1	Influenza A virus (A/goose/Taiwan/01031/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646887.1	Influenza A virus (A/goose/Taiwan/01031/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646886.1	Influenza A virus (A/goose/Taiwan/01031/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646885.1	Influenza A virus (A/goose/Taiwan/01031/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646884.1	Influenza A virus (A/goose/Taiwan/01031/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646883.1	Influenza A virus (A/goose/Taiwan/01031/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646882.1	Influenza A virus (A/goose/Taiwan/01031/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646881.1	Influenza A virus (A/goose/Taiwan/01023/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646880.1	Influenza A virus (A/goose/Taiwan/01023/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646879.1	Influenza A virus (A/goose/Taiwan/01023/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646878.1	Influenza A virus (A/goose/Taiwan/01023/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646877.1	Influenza A virus (A/goose/Taiwan/01023/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646876.1	Influenza A virus (A/goose/Taiwan/01023/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646875.1	Influenza A virus (A/goose/Taiwan/01023/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646874.1	Influenza A virus (A/goose/Taiwan/01023/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646873.1	Influenza A virus (A/goose/Taiwan/01022/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646872.1	Influenza A virus (A/goose/Taiwan/01022/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646871.1	Influenza A virus (A/goose/Taiwan/01022/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646870.1	Influenza A virus (A/goose/Taiwan/01022/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646869.1	Influenza A virus (A/goose/Taiwan/01022/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646868.1	Influenza A virus (A/goose/Taiwan/01022/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646867.1	Influenza A virus (A/goose/Taiwan/01022/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646866.1	Influenza A virus (A/goose/Taiwan/01022/2015(H5N2))	goose	Taiwan	12-Jan-2015
+KU646865.1	Influenza A virus (A/duck/Taiwan/01006/2015(H5N2))	duck	Taiwan	09-Jan-2015
+KU646864.1	Influenza A virus (A/duck/Taiwan/01006/2015(H5N2))	duck	Taiwan	09-Jan-2015
+KU646863.1	Influenza A virus (A/duck/Taiwan/01006/2015(H5N2))	duck	Taiwan	09-Jan-2015
+KU646862.1	Influenza A virus (A/duck/Taiwan/01006/2015(H5N2))	duck	Taiwan	09-Jan-2015
+KU646861.1	Influenza A virus (A/duck/Taiwan/01006/2015(H5N2))	duck	Taiwan	09-Jan-2015
+KU646860.1	Influenza A virus (A/duck/Taiwan/01006/2015(H5N2))	duck	Taiwan	09-Jan-2015
+KU646859.1	Influenza A virus (A/duck/Taiwan/01006/2015(H5N2))	duck	Taiwan	09-Jan-2015
+KU646858.1	Influenza A virus (A/duck/Taiwan/01006/2015(H5N2))	duck	Taiwan	09-Jan-2015
+KT327391.1	Influenza A virus (A/goose/Taiwan/01003/2015(H5N8))	goose	Taiwan	09-Jan-2015
+KT327390.1	Influenza A virus (A/goose/Taiwan/01003/2015(H5N8))	goose	Taiwan	09-Jan-2015
+KT327389.1	Influenza A virus (A/goose/Taiwan/01003/2015(H5N8))	goose	Taiwan	09-Jan-2015
+KT327388.1	Influenza A virus (A/goose/Taiwan/01003/2015(H5N8))	goose	Taiwan	09-Jan-2015
+KT327387.1	Influenza A virus (A/goose/Taiwan/01003/2015(H5N8))	goose	Taiwan	09-Jan-2015
+KT327386.1	Influenza A virus (A/goose/Taiwan/01003/2015(H5N8))	goose	Taiwan	09-Jan-2015
+KT327385.1	Influenza A virus (A/goose/Taiwan/01003/2015(H5N8))	goose	Taiwan	09-Jan-2015
+KT327384.1	Influenza A virus (A/goose/Taiwan/01004/2015(H5N2))	goose	Taiwan	09-Jan-2015
+KT327383.1	Influenza A virus (A/goose/Taiwan/01004/2015(H5N2))	goose	Taiwan	09-Jan-2015
+KT327382.1	Influenza A virus (A/goose/Taiwan/01004/2015(H5N2))	goose	Taiwan	09-Jan-2015
+KT327381.1	Influenza A virus (A/goose/Taiwan/01004/2015(H5N2))	goose	Taiwan	09-Jan-2015
+KT327380.1	Influenza A virus (A/goose/Taiwan/01004/2015(H5N2))	goose	Taiwan	09-Jan-2015
+KT327379.1	Influenza A virus (A/goose/Taiwan/01004/2015(H5N2))	goose	Taiwan	09-Jan-2015
+KT327378.1	Influenza A virus (A/goose/Taiwan/01004/2015(H5N2))	goose	Taiwan	09-Jan-2015
+KT327377.1	Influenza A virus (A/goose/Taiwan/01042/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KT327376.1	Influenza A virus (A/goose/Taiwan/01042/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KT327375.1	Influenza A virus (A/goose/Taiwan/01042/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KT327374.1	Influenza A virus (A/goose/Taiwan/01042/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KT327373.1	Influenza A virus (A/goose/Taiwan/01042/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KT327372.1	Influenza A virus (A/goose/Taiwan/01042/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KT327371.1	Influenza A virus (A/goose/Taiwan/01042/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KP714481.1	Influenza A virus (A/goose/Taiwan/01042/2015(H5N3))	goose	Taiwan	12-Jan-2015
+KP714480.1	Influenza A virus (A/goose/Taiwan/01004/2015(H5N2))	goose	Taiwan	09-Jan-2015
+KP714479.1	Influenza A virus (A/goose/Taiwan/01003/2015(H5N8))	goose	Taiwan	09-Jan-2015
+AF310992.1	Influenza A virus (A/laughing gull/New Jersey/171/92(H12N5))	-	-	-
+KP792304.1	Influenza A virus (A/duck/Taiwan/DV413/2006(H5N2))	duck	Taiwan: Yilan	28-Jul-2006
+KP792303.1	Influenza A virus (A/duck/Taiwan/DV413/2006(H5N2))	duck	Taiwan: Yilan	28-Jul-2006
+KP792302.1	Influenza A virus (A/duck/Taiwan/DV413/2006(H5N2))	duck	Taiwan: Yilan	28-Jul-2006
+KP792301.1	Influenza A virus (A/duck/Taiwan/DV413/2006(H5N2))	duck	Taiwan: Yilan	28-Jul-2006
+KP792300.1	Influenza A virus (A/duck/Taiwan/DV413/2006(H5N2))	duck	Taiwan: Yilan	28-Jul-2006
+KP792299.1	Influenza A virus (A/duck/Taiwan/DV413/2006(H5N2))	duck	Taiwan: Yilan	28-Jul-2006
+KP792298.1	Influenza A virus (A/duck/Taiwan/DV413/2006(H5N2))	duck	Taiwan: Yilan	28-Jul-2006
+KP792297.1	Influenza A virus (A/duck/Taiwan/DV413/2006(H5N2))	duck	Taiwan: Yilan	28-Jul-2006
+KP792312.1	Influenza A virus (A/duck/Taiwan/DV518/2006(H5N2))	duck	Taiwan: Yulin	07-Sep-2006
+KP792311.1	Influenza A virus (A/duck/Taiwan/DV518/2006(H5N2))	duck	Taiwan: Yulin	07-Sep-2006
+KP792310.1	Influenza A virus (A/duck/Taiwan/DV518/2006(H5N2))	duck	Taiwan: Yulin	07-Sep-2006
+KP792309.1	Influenza A virus (A/duck/Taiwan/DV518/2006(H5N2))	duck	Taiwan: Yulin	07-Sep-2006
+KP792308.1	Influenza A virus (A/duck/Taiwan/DV518/2006(H5N2))	duck	Taiwan: Yulin	07-Sep-2006
+KP792307.1	Influenza A virus (A/duck/Taiwan/DV518/2006(H5N2))	duck	Taiwan: Yulin	07-Sep-2006
+KP792306.1	Influenza A virus (A/duck/Taiwan/DV518/2006(H5N2))	duck	Taiwan: Yulin	07-Sep-2006
+KP792305.1	Influenza A virus (A/duck/Taiwan/DV518/2006(H5N2))	duck	Taiwan: Yulin	07-Sep-2006
+KR137658.1	Influenza A virus (A/chicken/PT/a158/2015(H5N2))	chicken	Taiwan: Pintong	15-Jan-2015
+KR137657.1	Influenza A virus (A/chicken/PT/a158/2015(H5N2))	chicken	Taiwan: Pintong	15-Jan-2015
+KR137656.1	Influenza A virus (A/chicken/PT/a158/2015(H5N2))	chicken	Taiwan: Pintong	15-Jan-2015
+KR137655.1	Influenza A virus (A/chicken/PT/a158/2015(H5N2))	chicken	Taiwan: Pintong	15-Jan-2015
+KR137654.1	Influenza A virus (A/chicken/PT/a158/2015(H5N2))	chicken	Taiwan: Pintong	15-Jan-2015
+KR137653.1	Influenza A virus (A/chicken/PT/a158/2015(H5N2))	chicken	Taiwan: Pintong	15-Jan-2015
+KR137652.1	Influenza A virus (A/chicken/PT/a158/2015(H5N2))	chicken	Taiwan: Pintong	15-Jan-2015
+KR137651.1	Influenza A virus (A/chicken/PT/a158/2015(H5N2))	chicken	Taiwan: Pintong	15-Jan-2015
+KR137666.1	Influenza A virus (A/chicken/GY/a451/2015(H5N2))	chicken	Taiwan: Chiayi	22-Jan-2015
+KR137665.1	Influenza A virus (A/chicken/GY/a451/2015(H5N2))	chicken	Taiwan: Chiayi	22-Jan-2015
+KR137664.1	Influenza A virus (A/chicken/GY/a451/2015(H5N2))	chicken	Taiwan: Chiayi	22-Jan-2015
+KR137663.1	Influenza A virus (A/chicken/GY/a451/2015(H5N2))	chicken	Taiwan: Chiayi	22-Jan-2015
+KR137662.1	Influenza A virus (A/chicken/GY/a451/2015(H5N2))	chicken	Taiwan: Chiayi	22-Jan-2015
+KR137661.1	Influenza A virus (A/chicken/GY/a451/2015(H5N2))	chicken	Taiwan: Chiayi	22-Jan-2015
+KR137660.1	Influenza A virus (A/chicken/GY/a451/2015(H5N2))	chicken	Taiwan: Chiayi	22-Jan-2015
+KR137659.1	Influenza A virus (A/chicken/GY/a451/2015(H5N2))	chicken	Taiwan: Chiayi	22-Jan-2015
+KR137674.1	Influenza A virus (A/chicken/TC/a504/2015(H5N2))	chicken	Taiwan: Taichung	23-Jan-2015
+KR137673.1	Influenza A virus (A/chicken/TC/a504/2015(H5N2))	chicken	Taiwan: Taichung	23-Jan-2015
+KR137672.1	Influenza A virus (A/chicken/TC/a504/2015(H5N2))	chicken	Taiwan: Taichung	23-Jan-2015
+KR137671.1	Influenza A virus (A/chicken/TC/a504/2015(H5N2))	chicken	Taiwan: Taichung	23-Jan-2015
+KR137670.1	Influenza A virus (A/chicken/TC/a504/2015(H5N2))	chicken	Taiwan: Taichung	23-Jan-2015
+KR137669.1	Influenza A virus (A/chicken/TC/a504/2015(H5N2))	chicken	Taiwan: Taichung	23-Jan-2015
+KR137668.1	Influenza A virus (A/chicken/TC/a504/2015(H5N2))	chicken	Taiwan: Taichung	23-Jan-2015
+KR137667.1	Influenza A virus (A/chicken/TC/a504/2015(H5N2))	chicken	Taiwan: Taichung	23-Jan-2015
+KR137682.1	Influenza A virus (A/chicken/CH/a556/2015(H5N2))	chicken	Taiwan: Changhua	26-Jan-2015
+KR137681.1	Influenza A virus (A/chicken/CH/a556/2015(H5N2))	chicken	Taiwan: Changhua	26-Jan-2015
+KR137680.1	Influenza A virus (A/chicken/CH/a556/2015(H5N2))	chicken	Taiwan: Changhua	26-Jan-2015
+KR137679.1	Influenza A virus (A/chicken/CH/a556/2015(H5N2))	chicken	Taiwan: Changhua	26-Jan-2015
+KR137678.1	Influenza A virus (A/chicken/CH/a556/2015(H5N2))	chicken	Taiwan: Changhua	26-Jan-2015
+KR137677.1	Influenza A virus (A/chicken/CH/a556/2015(H5N2))	chicken	Taiwan: Changhua	26-Jan-2015
+KR137676.1	Influenza A virus (A/chicken/CH/a556/2015(H5N2))	chicken	Taiwan: Changhua	26-Jan-2015
+KR137675.1	Influenza A virus (A/chicken/CH/a556/2015(H5N2))	chicken	Taiwan: Changhua	26-Jan-2015
+KR137690.1	Influenza A virus (A/chicken/TY/a665/2015(H5N2))	chicken	Taiwan: Taoyuan	29-Jan-2015
+KR137689.1	Influenza A virus (A/chicken/TY/a665/2015(H5N2))	chicken	Taiwan: Taoyuan	29-Jan-2015
+KR137688.1	Influenza A virus (A/chicken/TY/a665/2015(H5N2))	chicken	Taiwan: Taoyuan	29-Jan-2015
+KR137687.1	Influenza A virus (A/chicken/TY/a665/2015(H5N2))	chicken	Taiwan: Taoyuan	29-Jan-2015
+KR137686.1	Influenza A virus (A/chicken/TY/a665/2015(H5N2))	chicken	Taiwan: Taoyuan	29-Jan-2015
+KR137685.1	Influenza A virus (A/chicken/TY/a665/2015(H5N2))	chicken	Taiwan: Taoyuan	29-Jan-2015
+KR137684.1	Influenza A virus (A/chicken/TY/a665/2015(H5N2))	chicken	Taiwan: Taoyuan	29-Jan-2015
+KR137683.1	Influenza A virus (A/chicken/TY/a665/2015(H5N2))	chicken	Taiwan: Taoyuan	29-Jan-2015
+KR137698.1	Influenza A virus (A/chicken/SC/a688/2015(H5N2))	chicken	Taiwan: Hsinchu	29-Jan-2015
+KR137697.1	Influenza A virus (A/chicken/SC/a688/2015(H5N2))	chicken	Taiwan: Hsinchu	29-Jan-2015
+KR137696.1	Influenza A virus (A/chicken/SC/a688/2015(H5N2))	chicken	Taiwan: Hsinchu	29-Jan-2015
+KR137695.1	Influenza A virus (A/chicken/SC/a688/2015(H5N2))	chicken	Taiwan: Hsinchu	29-Jan-2015
+KR137694.1	Influenza A virus (A/chicken/SC/a688/2015(H5N2))	chicken	Taiwan: Hsinchu	29-Jan-2015
+KR137693.1	Influenza A virus (A/chicken/SC/a688/2015(H5N2))	chicken	Taiwan: Hsinchu	29-Jan-2015
+KR137692.1	Influenza A virus (A/chicken/SC/a688/2015(H5N2))	chicken	Taiwan: Hsinchu	29-Jan-2015
+KR137691.1	Influenza A virus (A/chicken/SC/a688/2015(H5N2))	chicken	Taiwan: Hsinchu	29-Jan-2015
+KR137706.1	Influenza A virus (A/chicken/PH/A2821/2013(H5N2))	chicken	Taiwan: Penghu	17-May-2013
+KR137705.1	Influenza A virus (A/chicken/PH/A2821/2013(H5N2))	chicken	Taiwan: Penghu	17-May-2013
+KR137704.1	Influenza A virus (A/chicken/PH/A2821/2013(H5N2))	chicken	Taiwan: Penghu	17-May-2013
+KR137703.1	Influenza A virus (A/chicken/PH/A2821/2013(H5N2))	chicken	Taiwan: Penghu	17-May-2013
+KR137702.1	Influenza A virus (A/chicken/PH/A2821/2013(H5N2))	chicken	Taiwan: Penghu	17-May-2013
+KR137701.1	Influenza A virus (A/chicken/PH/A2821/2013(H5N2))	chicken	Taiwan: Penghu	17-May-2013
+KR137700.1	Influenza A virus (A/chicken/PH/A2821/2013(H5N2))	chicken	Taiwan: Penghu	17-May-2013
+KR137699.1	Influenza A virus (A/chicken/PH/A2821/2013(H5N2))	chicken	Taiwan: Penghu	17-May-2013
+KR137714.1	Influenza A virus (A/chicken/YL/A3190/2014(H5N2))	chicken	Taiwan: Yilan	17-Apr-2014
+KR137713.1	Influenza A virus (A/chicken/YL/A3190/2014(H5N2))	chicken	Taiwan: Yilan	17-Apr-2014
+KR137712.1	Influenza A virus (A/chicken/YL/A3190/2014(H5N2))	chicken	Taiwan: Yilan	17-Apr-2014
+KR137711.1	Influenza A virus (A/chicken/YL/A3190/2014(H5N2))	chicken	Taiwan: Yilan	17-Apr-2014
+KR137710.1	Influenza A virus (A/chicken/YL/A3190/2014(H5N2))	chicken	Taiwan: Yilan	17-Apr-2014
+KR137709.1	Influenza A virus (A/chicken/YL/A3190/2014(H5N2))	chicken	Taiwan: Yilan	17-Apr-2014
+KR137708.1	Influenza A virus (A/chicken/YL/A3190/2014(H5N2))	chicken	Taiwan: Yilan	17-Apr-2014
+KR137707.1	Influenza A virus (A/chicken/YL/A3190/2014(H5N2))	chicken	Taiwan: Yilan	17-Apr-2014
+AF310989.1	Influenza A virus (A/Red Knot/Delaware/254/94(H8N4))	-	-	-
+KJ720215.1	Influenza A virus (A/chicken/Taiwan/0502/2012(H5N2))	chicken	Taiwan: Yunlin	08-May-2012
+KJ720214.1	Influenza A virus (A/chicken/Taiwan/0502/2012(H5N2))	chicken	Taiwan: Yunlin	08-May-2012
+KJ720213.1	Influenza A virus (A/chicken/Taiwan/0502/2012(H5N2))	chicken	Taiwan: Yunlin	08-May-2012
+KJ720212.1	Influenza A virus (A/chicken/Taiwan/0502/2012(H5N2))	chicken	Taiwan: Yunlin	08-May-2012
+KJ720211.1	Influenza A virus (A/chicken/Taiwan/0502/2012(H5N2))	chicken	Taiwan: Yunlin	08-May-2012
+KJ720210.1	Influenza A virus (A/chicken/Taiwan/0502/2012(H5N2))	chicken	Taiwan: Yunlin	08-May-2012
+KJ720209.1	Influenza A virus (A/chicken/Taiwan/0502/2012(H5N2))	chicken	Taiwan: Yunlin	08-May-2012
+KJ720208.1	Influenza A virus (A/chicken/Taiwan/0502/2012(H5N2))	chicken	Taiwan: Yunlin	08-May-2012
+KJ162864.1	Influenza A virus (A/chicken/Taiwan/67/2013(H6N1))	chicken	Taiwan	02-Jan-2013
+KJ162863.1	Influenza A virus (A/chicken/Taiwan/67/2013(H6N1))	chicken	Taiwan	02-Jan-2013
+KJ162862.1	Influenza A virus (A/chicken/Taiwan/67/2013(H6N1))	chicken	Taiwan	02-Jan-2013
+KJ162861.1	Influenza A virus (A/chicken/Taiwan/67/2013(H6N1))	chicken	Taiwan	02-Jan-2013
+KJ162860.1	Influenza A virus (A/chicken/Taiwan/67/2013(H6N1))	chicken	Taiwan	02-Jan-2013
+KJ162859.1	Influenza A virus (A/chicken/Taiwan/67/2013(H6N1))	chicken	Taiwan	02-Jan-2013
+KJ162858.1	Influenza A virus (A/chicken/Taiwan/67/2013(H6N1))	chicken	Taiwan	02-Jan-2013
+KJ162857.1	Influenza A virus (A/chicken/Taiwan/67/2013(H6N1))	chicken	Taiwan	02-Jan-2013
+KJ162856.1	Influenza A virus (A/chicken/Taiwan/2759/2012(H6N1))	chicken	Taiwan	27-Dec-2012
+KJ162855.1	Influenza A virus (A/chicken/Taiwan/2759/2012(H6N1))	chicken	Taiwan	27-Dec-2012
+KJ162854.1	Influenza A virus (A/chicken/Taiwan/2759/2012(H6N1))	chicken	Taiwan	27-Dec-2012
+KJ162853.1	Influenza A virus (A/chicken/Taiwan/2759/2012(H6N1))	chicken	Taiwan	27-Dec-2012
+KJ162852.1	Influenza A virus (A/chicken/Taiwan/2759/2012(H6N1))	chicken	Taiwan	27-Dec-2012
+KJ162851.1	Influenza A virus (A/chicken/Taiwan/2759/2012(H6N1))	chicken	Taiwan	27-Dec-2012
+KJ162850.1	Influenza A virus (A/chicken/Taiwan/2759/2012(H6N1))	chicken	Taiwan	27-Dec-2012
+KJ162849.1	Influenza A virus (A/chicken/Taiwan/2759/2012(H6N1))	chicken	Taiwan	27-Dec-2012
+KJ162848.1	Influenza A virus (A/chicken/Taiwan/2437/2012(H6N1))	chicken	Taiwan	25-Dec-2012
+KJ162847.1	Influenza A virus (A/chicken/Taiwan/2437/2012(H6N1))	chicken	Taiwan	25-Dec-2012
+KJ162846.1	Influenza A virus (A/chicken/Taiwan/2437/2012(H6N1))	chicken	Taiwan	25-Dec-2012
+KJ162845.1	Influenza A virus (A/chicken/Taiwan/2437/2012(H6N1))	chicken	Taiwan	25-Dec-2012
+KJ162844.1	Influenza A virus (A/chicken/Taiwan/2437/2012(H6N1))	chicken	Taiwan	25-Dec-2012
+KJ162843.1	Influenza A virus (A/chicken/Taiwan/2437/2012(H6N1))	chicken	Taiwan	25-Dec-2012
+KJ162842.1	Influenza A virus (A/chicken/Taiwan/2437/2012(H6N1))	chicken	Taiwan	25-Dec-2012
+KJ162841.1	Influenza A virus (A/chicken/Taiwan/2437/2012(H6N1))	chicken	Taiwan	25-Dec-2012
+KJ162840.1	Influenza A virus (A/chicken/Taiwan/2331/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162839.1	Influenza A virus (A/chicken/Taiwan/2331/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162838.1	Influenza A virus (A/chicken/Taiwan/2331/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162837.1	Influenza A virus (A/chicken/Taiwan/2331/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162836.1	Influenza A virus (A/chicken/Taiwan/2331/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162835.1	Influenza A virus (A/chicken/Taiwan/2331/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162834.1	Influenza A virus (A/chicken/Taiwan/2331/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162833.1	Influenza A virus (A/chicken/Taiwan/2331/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162832.1	Influenza A virus (A/chicken/Taiwan/2267/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162831.1	Influenza A virus (A/chicken/Taiwan/2267/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162830.1	Influenza A virus (A/chicken/Taiwan/2267/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162829.1	Influenza A virus (A/chicken/Taiwan/2267/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162828.1	Influenza A virus (A/chicken/Taiwan/2267/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162827.1	Influenza A virus (A/chicken/Taiwan/2267/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162826.1	Influenza A virus (A/chicken/Taiwan/2267/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162825.1	Influenza A virus (A/chicken/Taiwan/2267/2012(H6N1))	chicken	Taiwan	21-Dec-2012
+KJ162824.1	Influenza A virus (A/chicken/Taiwan/2084/2012(H6N1))	chicken	Taiwan	20-Dec-2012
+KJ162823.1	Influenza A virus (A/chicken/Taiwan/2084/2012(H6N1))	chicken	Taiwan	20-Dec-2012
+KJ162822.1	Influenza A virus (A/chicken/Taiwan/2084/2012(H6N1))	chicken	Taiwan	20-Dec-2012
+KJ162821.1	Influenza A virus (A/chicken/Taiwan/2084/2012(H6N1))	chicken	Taiwan	20-Dec-2012
+KJ162820.1	Influenza A virus (A/chicken/Taiwan/2084/2012(H6N1))	chicken	Taiwan	20-Dec-2012
+KJ162819.1	Influenza A virus (A/chicken/Taiwan/2084/2012(H6N1))	chicken	Taiwan	20-Dec-2012
+KJ162818.1	Influenza A virus (A/chicken/Taiwan/2084/2012(H6N1))	chicken	Taiwan	20-Dec-2012
+KJ162817.1	Influenza A virus (A/chicken/Taiwan/2084/2012(H6N1))	chicken	Taiwan	20-Dec-2012
+KJ162816.1	Influenza A virus (A/chicken/Taiwan/1843/2012(H6N1))	chicken	Taiwan	18-Dec-2012
+KJ162815.1	Influenza A virus (A/chicken/Taiwan/1843/2012(H6N1))	chicken	Taiwan	18-Dec-2012
+KJ162814.1	Influenza A virus (A/chicken/Taiwan/1843/2012(H6N1))	chicken	Taiwan	18-Dec-2012
+KJ162813.1	Influenza A virus (A/chicken/Taiwan/1843/2012(H6N1))	chicken	Taiwan	18-Dec-2012
+KJ162812.1	Influenza A virus (A/chicken/Taiwan/1843/2012(H6N1))	chicken	Taiwan	18-Dec-2012
+KJ162811.1	Influenza A virus (A/chicken/Taiwan/1843/2012(H6N1))	chicken	Taiwan	18-Dec-2012
+KJ162810.1	Influenza A virus (A/chicken/Taiwan/1843/2012(H6N1))	chicken	Taiwan	18-Dec-2012
+KJ162809.1	Influenza A virus (A/chicken/Taiwan/1843/2012(H6N1))	chicken	Taiwan	18-Dec-2012
+KJ162808.1	Influenza A virus (A/duck/Taiwan/11254/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162807.1	Influenza A virus (A/duck/Taiwan/11254/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162806.1	Influenza A virus (A/duck/Taiwan/11254/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162805.1	Influenza A virus (A/duck/Taiwan/11254/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162804.1	Influenza A virus (A/duck/Taiwan/11254/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162803.1	Influenza A virus (A/duck/Taiwan/11254/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162802.1	Influenza A virus (A/duck/Taiwan/11254/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162801.1	Influenza A virus (A/duck/Taiwan/11254/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162800.1	Influenza A virus (A/duck/Taiwan/11213/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162799.1	Influenza A virus (A/duck/Taiwan/11213/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162798.1	Influenza A virus (A/duck/Taiwan/11213/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162797.1	Influenza A virus (A/duck/Taiwan/11213/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162796.1	Influenza A virus (A/duck/Taiwan/11213/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162795.1	Influenza A virus (A/duck/Taiwan/11213/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162794.1	Influenza A virus (A/duck/Taiwan/11213/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162793.1	Influenza A virus (A/duck/Taiwan/11213/2013(H5N2))	duck	Taiwan	18-Jul-2013
+KJ162792.1	Influenza A virus (A/duck/Taiwan/4380/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162791.1	Influenza A virus (A/duck/Taiwan/4380/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162790.1	Influenza A virus (A/duck/Taiwan/4380/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162789.1	Influenza A virus (A/duck/Taiwan/4380/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162788.1	Influenza A virus (A/duck/Taiwan/4380/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162787.1	Influenza A virus (A/duck/Taiwan/4380/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162786.1	Influenza A virus (A/duck/Taiwan/4380/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162785.1	Influenza A virus (A/duck/Taiwan/4380/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162784.1	Influenza A virus (A/duck/Taiwan/4379/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162783.1	Influenza A virus (A/duck/Taiwan/4379/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162782.1	Influenza A virus (A/duck/Taiwan/4379/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162781.1	Influenza A virus (A/duck/Taiwan/4379/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162780.1	Influenza A virus (A/duck/Taiwan/4379/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162779.1	Influenza A virus (A/duck/Taiwan/4379/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162778.1	Influenza A virus (A/duck/Taiwan/4379/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162777.1	Influenza A virus (A/duck/Taiwan/4379/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162776.1	Influenza A virus (A/duck/Taiwan/4376/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162775.1	Influenza A virus (A/duck/Taiwan/4376/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162774.1	Influenza A virus (A/duck/Taiwan/4376/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162773.1	Influenza A virus (A/duck/Taiwan/4376/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162772.1	Influenza A virus (A/duck/Taiwan/4376/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162771.1	Influenza A virus (A/duck/Taiwan/4376/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162770.1	Influenza A virus (A/duck/Taiwan/4376/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162769.1	Influenza A virus (A/duck/Taiwan/4376/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162768.1	Influenza A virus (A/duck/Taiwan/4374/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162767.1	Influenza A virus (A/duck/Taiwan/4374/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162766.1	Influenza A virus (A/duck/Taiwan/4374/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162765.1	Influenza A virus (A/duck/Taiwan/4374/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162764.1	Influenza A virus (A/duck/Taiwan/4374/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162763.1	Influenza A virus (A/duck/Taiwan/4374/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162762.1	Influenza A virus (A/duck/Taiwan/4374/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162761.1	Influenza A virus (A/duck/Taiwan/4374/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162760.1	Influenza A virus (A/duck/Taiwan/4372/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162759.1	Influenza A virus (A/duck/Taiwan/4372/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162758.1	Influenza A virus (A/duck/Taiwan/4372/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162757.1	Influenza A virus (A/duck/Taiwan/4372/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162756.1	Influenza A virus (A/duck/Taiwan/4372/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162755.1	Influenza A virus (A/duck/Taiwan/4372/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162754.1	Influenza A virus (A/duck/Taiwan/4372/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162753.1	Influenza A virus (A/duck/Taiwan/4372/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162752.1	Influenza A virus (A/duck/Taiwan/4360/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162751.1	Influenza A virus (A/duck/Taiwan/4360/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162750.1	Influenza A virus (A/duck/Taiwan/4360/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162749.1	Influenza A virus (A/duck/Taiwan/4360/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162748.1	Influenza A virus (A/duck/Taiwan/4360/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162747.1	Influenza A virus (A/duck/Taiwan/4360/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162746.1	Influenza A virus (A/duck/Taiwan/4360/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162745.1	Influenza A virus (A/duck/Taiwan/4360/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162744.1	Influenza A virus (A/duck/Taiwan/4355/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162743.1	Influenza A virus (A/duck/Taiwan/4355/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162742.1	Influenza A virus (A/duck/Taiwan/4355/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162741.1	Influenza A virus (A/duck/Taiwan/4355/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162740.1	Influenza A virus (A/duck/Taiwan/4355/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162739.1	Influenza A virus (A/duck/Taiwan/4355/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162738.1	Influenza A virus (A/duck/Taiwan/4355/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162737.1	Influenza A virus (A/duck/Taiwan/4355/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162736.1	Influenza A virus (A/duck/Taiwan/762/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162735.1	Influenza A virus (A/duck/Taiwan/762/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162734.1	Influenza A virus (A/duck/Taiwan/762/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162733.1	Influenza A virus (A/duck/Taiwan/762/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162732.1	Influenza A virus (A/duck/Taiwan/762/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162731.1	Influenza A virus (A/duck/Taiwan/762/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162730.1	Influenza A virus (A/duck/Taiwan/762/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162729.1	Influenza A virus (A/duck/Taiwan/762/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162728.1	Influenza A virus (A/duck/Taiwan/758/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162727.1	Influenza A virus (A/duck/Taiwan/758/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162726.1	Influenza A virus (A/duck/Taiwan/758/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162725.1	Influenza A virus (A/duck/Taiwan/758/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162724.1	Influenza A virus (A/duck/Taiwan/758/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162723.1	Influenza A virus (A/duck/Taiwan/758/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162722.1	Influenza A virus (A/duck/Taiwan/758/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162721.1	Influenza A virus (A/duck/Taiwan/758/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162720.1	Influenza A virus (A/duck/Taiwan/755/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162719.1	Influenza A virus (A/duck/Taiwan/755/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162718.1	Influenza A virus (A/duck/Taiwan/755/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162717.1	Influenza A virus (A/duck/Taiwan/755/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162716.1	Influenza A virus (A/duck/Taiwan/755/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162715.1	Influenza A virus (A/duck/Taiwan/755/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162714.1	Influenza A virus (A/duck/Taiwan/755/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162713.1	Influenza A virus (A/duck/Taiwan/755/2013(H5N2))	duck	Taiwan	10-Jan-2013
+KJ162712.1	Influenza A virus (A/chicken/Taiwan/4443/2013(H5N2))	chicken	Taiwan	17-May-2013
+KJ162711.1	Influenza A virus (A/chicken/Taiwan/4443/2013(H5N2))	chicken	Taiwan	17-May-2013
+KJ162710.1	Influenza A virus (A/chicken/Taiwan/4443/2013(H5N2))	chicken	Taiwan	17-May-2013
+KJ162709.1	Influenza A virus (A/chicken/Taiwan/4443/2013(H5N2))	chicken	Taiwan	17-May-2013
+KJ162708.1	Influenza A virus (A/chicken/Taiwan/4443/2013(H5N2))	chicken	Taiwan	17-May-2013
+KJ162707.1	Influenza A virus (A/chicken/Taiwan/4443/2013(H5N2))	chicken	Taiwan	17-May-2013
+KJ162706.1	Influenza A virus (A/chicken/Taiwan/4443/2013(H5N2))	chicken	Taiwan	17-May-2013
+KJ162705.1	Influenza A virus (A/chicken/Taiwan/4443/2013(H5N2))	chicken	Taiwan	17-May-2013
+KJ162704.1	Influenza A virus (A/chicken/Taiwan/8996/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162703.1	Influenza A virus (A/chicken/Taiwan/8996/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162702.1	Influenza A virus (A/chicken/Taiwan/8996/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162701.1	Influenza A virus (A/chicken/Taiwan/8996/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162700.1	Influenza A virus (A/chicken/Taiwan/8996/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162699.1	Influenza A virus (A/chicken/Taiwan/8996/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162698.1	Influenza A virus (A/chicken/Taiwan/8996/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162697.1	Influenza A virus (A/chicken/Taiwan/8996/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162696.1	Influenza A virus (A/chicken/Taiwan/8995/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162695.1	Influenza A virus (A/chicken/Taiwan/8995/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162694.1	Influenza A virus (A/chicken/Taiwan/8995/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162693.1	Influenza A virus (A/chicken/Taiwan/8995/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162692.1	Influenza A virus (A/chicken/Taiwan/8995/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162691.1	Influenza A virus (A/chicken/Taiwan/8995/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162690.1	Influenza A virus (A/chicken/Taiwan/8995/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162689.1	Influenza A virus (A/chicken/Taiwan/8995/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162688.1	Influenza A virus (A/chicken/Taiwan/8994/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162687.1	Influenza A virus (A/chicken/Taiwan/8994/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162686.1	Influenza A virus (A/chicken/Taiwan/8994/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162685.1	Influenza A virus (A/chicken/Taiwan/8994/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162684.1	Influenza A virus (A/chicken/Taiwan/8994/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162683.1	Influenza A virus (A/chicken/Taiwan/8994/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162682.1	Influenza A virus (A/chicken/Taiwan/8994/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162681.1	Influenza A virus (A/chicken/Taiwan/8994/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162680.1	Influenza A virus (A/chicken/Taiwan/8988/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162679.1	Influenza A virus (A/chicken/Taiwan/8988/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162678.1	Influenza A virus (A/chicken/Taiwan/8988/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162677.1	Influenza A virus (A/chicken/Taiwan/8988/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162676.1	Influenza A virus (A/chicken/Taiwan/8988/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162675.1	Influenza A virus (A/chicken/Taiwan/8988/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162674.1	Influenza A virus (A/chicken/Taiwan/8988/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162673.1	Influenza A virus (A/chicken/Taiwan/8988/2013(H5N2))	chicken	Taiwan	26-Mar-2013
+KJ162672.1	Influenza A virus (A/chicken/Taiwan/7350/2013(H5N2))	chicken	Taiwan	22-Mar-2013
+KJ162671.1	Influenza A virus (A/chicken/Taiwan/7350/2013(H5N2))	chicken	Taiwan	22-Mar-2013
+KJ162670.1	Influenza A virus (A/chicken/Taiwan/7350/2013(H5N2))	chicken	Taiwan	22-Mar-2013
+KJ162669.1	Influenza A virus (A/chicken/Taiwan/7350/2013(H5N2))	chicken	Taiwan	22-Mar-2013
+KJ162668.1	Influenza A virus (A/chicken/Taiwan/7350/2013(H5N2))	chicken	Taiwan	22-Mar-2013
+KJ162667.1	Influenza A virus (A/chicken/Taiwan/7350/2013(H5N2))	chicken	Taiwan	22-Mar-2013
+KJ162666.1	Influenza A virus (A/chicken/Taiwan/7350/2013(H5N2))	chicken	Taiwan	22-Mar-2013
+KJ162665.1	Influenza A virus (A/chicken/Taiwan/7350/2013(H5N2))	chicken	Taiwan	22-Mar-2013
+KJ162664.1	Influenza A virus (A/chicken/Taiwan/2948/2013(H5N2))	chicken	Taiwan	05-Mar-2013
+KJ162663.1	Influenza A virus (A/chicken/Taiwan/2948/2013(H5N2))	chicken	Taiwan	05-Mar-2013
+KJ162662.1	Influenza A virus (A/chicken/Taiwan/2948/2013(H5N2))	chicken	Taiwan	05-Mar-2013
+KJ162661.1	Influenza A virus (A/chicken/Taiwan/2948/2013(H5N2))	chicken	Taiwan	05-Mar-2013
+KJ162660.1	Influenza A virus (A/chicken/Taiwan/2948/2013(H5N2))	chicken	Taiwan	05-Mar-2013
+KJ162659.1	Influenza A virus (A/chicken/Taiwan/2948/2013(H5N2))	chicken	Taiwan	05-Mar-2013
+KJ162658.1	Influenza A virus (A/chicken/Taiwan/2948/2013(H5N2))	chicken	Taiwan	05-Mar-2013
+KJ162657.1	Influenza A virus (A/chicken/Taiwan/2948/2013(H5N2))	chicken	Taiwan	05-Mar-2013
+KJ162656.1	Influenza A virus (A/chicken/Taiwan/1711/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162655.1	Influenza A virus (A/chicken/Taiwan/1711/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162654.1	Influenza A virus (A/chicken/Taiwan/1711/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162653.1	Influenza A virus (A/chicken/Taiwan/1711/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162652.1	Influenza A virus (A/chicken/Taiwan/1711/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162651.1	Influenza A virus (A/chicken/Taiwan/1711/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162650.1	Influenza A virus (A/chicken/Taiwan/1711/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162649.1	Influenza A virus (A/chicken/Taiwan/1711/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162648.1	Influenza A virus (A/chicken/Taiwan/1704/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162647.1	Influenza A virus (A/chicken/Taiwan/1704/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162646.1	Influenza A virus (A/chicken/Taiwan/1704/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162645.1	Influenza A virus (A/chicken/Taiwan/1704/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162644.1	Influenza A virus (A/chicken/Taiwan/1704/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162643.1	Influenza A virus (A/chicken/Taiwan/1704/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162642.1	Influenza A virus (A/chicken/Taiwan/1704/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162641.1	Influenza A virus (A/chicken/Taiwan/1704/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162640.1	Influenza A virus (A/chicken/Taiwan/1692/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162639.1	Influenza A virus (A/chicken/Taiwan/1692/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162638.1	Influenza A virus (A/chicken/Taiwan/1692/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162637.1	Influenza A virus (A/chicken/Taiwan/1692/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162636.1	Influenza A virus (A/chicken/Taiwan/1692/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162635.1	Influenza A virus (A/chicken/Taiwan/1692/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162634.1	Influenza A virus (A/chicken/Taiwan/1692/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162633.1	Influenza A virus (A/chicken/Taiwan/1692/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162632.1	Influenza A virus (A/chicken/Taiwan/1682/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162631.1	Influenza A virus (A/chicken/Taiwan/1682/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162630.1	Influenza A virus (A/chicken/Taiwan/1682/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162629.1	Influenza A virus (A/chicken/Taiwan/1682/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162628.1	Influenza A virus (A/chicken/Taiwan/1682/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162627.1	Influenza A virus (A/chicken/Taiwan/1682/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162626.1	Influenza A virus (A/chicken/Taiwan/1682/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162625.1	Influenza A virus (A/chicken/Taiwan/1682/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162624.1	Influenza A virus (A/chicken/Taiwan/1680/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162623.1	Influenza A virus (A/chicken/Taiwan/1680/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162622.1	Influenza A virus (A/chicken/Taiwan/1680/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162621.1	Influenza A virus (A/chicken/Taiwan/1680/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162620.1	Influenza A virus (A/chicken/Taiwan/1680/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162619.1	Influenza A virus (A/chicken/Taiwan/1680/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162618.1	Influenza A virus (A/chicken/Taiwan/1680/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162617.1	Influenza A virus (A/chicken/Taiwan/1680/2013(H5N2))	chicken	Taiwan	29-Jan-2013
+KJ162616.1	Influenza A virus (A/chicken/Taiwan/2593/2012(H5N2))	chicken	Taiwan	27-Dec-2012
+KJ162615.1	Influenza A virus (A/chicken/Taiwan/2593/2012(H5N2))	chicken	Taiwan	27-Dec-2012
+KJ162614.1	Influenza A virus (A/chicken/Taiwan/2593/2012(H5N2))	chicken	Taiwan	27-Dec-2012
+KJ162613.1	Influenza A virus (A/chicken/Taiwan/2593/2012(H5N2))	chicken	Taiwan	27-Dec-2012
+KJ162612.1	Influenza A virus (A/chicken/Taiwan/2593/2012(H5N2))	chicken	Taiwan	27-Dec-2012
+KJ162611.1	Influenza A virus (A/chicken/Taiwan/2593/2012(H5N2))	chicken	Taiwan	27-Dec-2012
+KJ162610.1	Influenza A virus (A/chicken/Taiwan/2593/2012(H5N2))	chicken	Taiwan	27-Dec-2012
+KJ162609.1	Influenza A virus (A/chicken/Taiwan/2593/2012(H5N2))	chicken	Taiwan	27-Dec-2012
+KJ162608.1	Influenza A virus (A/chicken/Taiwan/692/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162607.1	Influenza A virus (A/chicken/Taiwan/692/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162606.1	Influenza A virus (A/chicken/Taiwan/692/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162605.1	Influenza A virus (A/chicken/Taiwan/692/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162604.1	Influenza A virus (A/chicken/Taiwan/692/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162603.1	Influenza A virus (A/chicken/Taiwan/692/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162602.1	Influenza A virus (A/chicken/Taiwan/692/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162601.1	Influenza A virus (A/chicken/Taiwan/692/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162600.1	Influenza A virus (A/chicken/Taiwan/689/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162599.1	Influenza A virus (A/chicken/Taiwan/689/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162598.1	Influenza A virus (A/chicken/Taiwan/689/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162597.1	Influenza A virus (A/chicken/Taiwan/689/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162596.1	Influenza A virus (A/chicken/Taiwan/689/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162595.1	Influenza A virus (A/chicken/Taiwan/689/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162594.1	Influenza A virus (A/chicken/Taiwan/689/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162593.1	Influenza A virus (A/chicken/Taiwan/689/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162592.1	Influenza A virus (A/chicken/Taiwan/683/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162591.1	Influenza A virus (A/chicken/Taiwan/683/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162590.1	Influenza A virus (A/chicken/Taiwan/683/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162589.1	Influenza A virus (A/chicken/Taiwan/683/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162588.1	Influenza A virus (A/chicken/Taiwan/683/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162587.1	Influenza A virus (A/chicken/Taiwan/683/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162586.1	Influenza A virus (A/chicken/Taiwan/683/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+KJ162585.1	Influenza A virus (A/chicken/Taiwan/683/2012(H5N2))	chicken	Taiwan	06-Dec-2012
+AB830484.1	Influenza A virus (A/chicken/Tainan/V156/1999(H6N1))	Gallus gallus domesticus	Taiwan:Tainan	1999
+AB830483.1	Influenza A virus (A/chicken/Changhua/7-5/1999(H6N1))	Gallus gallus domesticus	Taiwan:Changhua	1999
+KF193401.1	Influenza A virus (A/chicken/Taiwan/A1997/2012(H5N2))	chicken	Taiwan: Tainan	15-Feb-2012
+KF193400.1	Influenza A virus (A/chicken/Taiwan/A1997/2012(H5N2))	chicken	Taiwan: Tainan	15-Feb-2012
+KF193399.1	Influenza A virus (A/chicken/Taiwan/A1997/2012(H5N2))	chicken	Taiwan: Tainan	15-Feb-2012
+KF193398.1	Influenza A virus (A/chicken/Taiwan/A1997/2012(H5N2))	chicken	Taiwan: Tainan	15-Feb-2012
+KF193397.1	Influenza A virus (A/chicken/Taiwan/A1997/2012(H5N2))	chicken	Taiwan: Tainan	15-Feb-2012
+KF193396.1	Influenza A virus (A/chicken/Taiwan/A1997/2012(H5N2))	chicken	Taiwan: Tainan	15-Feb-2012
+KF193395.1	Influenza A virus (A/chicken/Taiwan/A1997/2012(H5N2))	chicken	Taiwan: Tainan	15-Feb-2012
+KF193394.1	Influenza A virus (A/chicken/Taiwan/A1997/2012(H5N2))	chicken	Taiwan: Tainan	15-Feb-2012
+KF193393.1	Influenza A virus (A/chicken/Taiwan/0101/2012(H5N2))	chicken	Taiwan: Changhua	05-Jan-2012
+KF193392.1	Influenza A virus (A/chicken/Taiwan/0101/2012(H5N2))	chicken	Taiwan: Changhua	05-Jan-2012
+KF193391.1	Influenza A virus (A/chicken/Taiwan/0101/2012(H5N2))	chicken	Taiwan: Changhua	05-Jan-2012
+KF193390.1	Influenza A virus (A/chicken/Taiwan/0101/2012(H5N2))	chicken	Taiwan: Changhua	05-Jan-2012
+KF193389.1	Influenza A virus (A/chicken/Taiwan/0101/2012(H5N2))	chicken	Taiwan: Changhua	05-Jan-2012
+KF193388.1	Influenza A virus (A/chicken/Taiwan/0101/2012(H5N2))	chicken	Taiwan: Changhua	05-Jan-2012
+KF193387.1	Influenza A virus (A/chicken/Taiwan/0101/2012(H5N2))	chicken	Taiwan: Changhua	05-Jan-2012
+KF193386.1	Influenza A virus (A/chicken/Taiwan/0101/2012(H5N2))	chicken	Taiwan: Changhua	05-Jan-2012
+GQ221699.1	Influenza A virus (A/duck/Taiwan(H7N1))	duck	Taiwan	-
+AY672090.1	Influenza A virus (A/Hong Kong/301/78(H7N1))	-	Hong Kong	-
+DQ107407.1	Influenza A virus (A/duck/Taiwan/9/23-3/2000(H6N1))	-	China	-
+AF262213.1	Influenza A virus (A/chicken/Taiwan/7-5/99(H6N1))	-	-	-
+AF262212.1	Influenza A virus (A/chicken/Taiwan/7-5/99(H6N1))	-	-	-
+AF262211.1	Influenza A virus (A/chicken/Taiwan/7-5/99(H6N1))	-	-	-
+AF262210.1	Influenza A virus (A/chicken/Taiwan/7-5/99(H6N1))	-	-	-
+AF261750.1	Influenza A virus (A/chicken/Taiwan/7-5/99(H6N1))	-	-	-
+AF255624.1	Influenza A virus (A/chicken/Taiwan/7-5/99(H6N1))	-	-	-
+AY573918.1	Influenza A virus (A/chicken/Taiwan/1209/2003(H5N2))	-	-	-
+AY573917.1	Influenza A virus (A/chicken/Taiwan/1209/2003(H5N2))	-	-	-
+DQ376797.1	Influenza A virus (A/chicken/Taiwan/A342/05(H6N1))	-	Taiwan	-
+DQ376796.1	Influenza A virus (A/chicken/Taiwan/0204/05(H6N1))	-	Taiwan	-
+DQ376795.1	Influenza A virus (A/duck/Taiwan/WB459/04(H6N5))	-	Taiwan	-
+DQ376794.1	Influenza A virus (A/duck/Kingmen/E322/04(H6N2))	-	Taiwan	-
+DQ376793.1	Influenza A virus (A/chicken/Taiwan/ch1006/04(H6N1))	-	Taiwan	-
+DQ376792.1	Influenza A virus (A/chicken/Taiwan/0305/04(H6N1))	-	Taiwan	-
+DQ376791.1	Influenza A virus (A/chicken/Taiwan/0114/04(H6N1))	-	Taiwan	-
+DQ376790.1	Influenza A virus (A/duck/Taiwan/A68/03(H6N1))	-	Taiwan	-
+DQ376789.1	Influenza A virus (A/chicken/Taiwan/1203/03(H6N1))	-	Taiwan	-
+DQ376788.1	Influenza A virus (A/chicken/Taiwan/0706/03(H6N1))	-	Taiwan	-
+DQ376787.1	Influenza A virus (A/duck/Taiwan/WB239/03(H6N1))	-	Taiwan	-
+DQ376786.1	Influenza A virus (A/chicken/Taiwan/0408/02(H6N1))	-	Taiwan	-
+DQ376785.1	Influenza A virus (A/chicken/Taiwan/0208/02(H6N1))	-	Taiwan	-
+DQ376784.1	Influenza A virus (A/chicken/Taiwan/0107/02(H6N1))	-	Taiwan	-
+DQ376783.1	Influenza A virus (A/chicken/Taiwan/A37/02(H6N1))	-	Taiwan	-
+DQ376782.1	Influenza A virus (A/chicken/Taiwan/0320/02(H6N1))	-	Taiwan	-
+DQ376781.1	Influenza A virus (A/chicken/Taiwan/PF3/02(H6N1))	-	Taiwan	-
+DQ376780.1	Influenza A virus (A/chicken/Taiwan/PF2/02(H6N1))	-	Taiwan	-
+DQ376779.1	Influenza A virus (A/chicken/Taiwan/PF1/02(H6N1))	-	Taiwan	-
+DQ376778.1	Influenza A virus (A/chicken/Taiwan/0222/02(H6N1))	-	Taiwan	-
+DQ376777.1	Influenza A virus (A/chicken/Taiwan/1215/01(H6N1))	-	Taiwan	-
+DQ376776.1	Influenza A virus (A/chicken/Taiwan/1212/01(H6N1))	-	Taiwan	-
+DQ376775.1	Influenza A virus (A/chicken/Taiwan/1205/01(H6N1))	-	Taiwan	-
+DQ376774.1	Influenza A virus (A/chicken/Taiwan/0329/01(H6N1))	-	Taiwan	-
+DQ376773.1	Influenza A virus (A/duck/Taiwan/29-3/00(H6N1))	-	Taiwan	-
+DQ376772.1	Influenza A virus (A/chicken/Taiwan/SP1/00(H6N1))	-	Taiwan	-
+DQ376771.1	Influenza A virus (A/duck/Taiwan/WB29/99(H6N1))	-	Taiwan	-
+DQ376770.1	Influenza A virus (A/chicken/Taiwan/165/99(H6N1))	-	Taiwan	-
+DQ376769.1	Influenza A virus (A/partridge/Taiwan/LU1/99(H6N1))	-	Taiwan	-
+DQ376768.1	Influenza A virus (A/chicken/Taiwan/0705/99(H6N1))	-	Taiwan	-
+DQ376767.1	Influenza A virus (A/chicken/Taiwan/ns2/99(H6N1))	-	Taiwan	-
+DQ376766.1	Influenza A virus (A/chicken/Taiwan/na3/98(H6N1))	-	Taiwan	-
+DQ376765.1	Influenza A virus (A/chicken/Taiwan/0824/97(H6N1))	-	Taiwan	-
+DQ376764.1	Influenza A virus (A/chicken/Taiwan/G23/87(H6N1))	-	Taiwan	-
+DQ376763.1	Influenza A virus (A/chicken/Taiwan/G2/87(H6N1))	-	Taiwan	-
+DQ376762.1	Influenza A virus (A/duck/Taiwan/0526/72(H6N1))	-	Taiwan	-
+DQ376905.1	Influenza A virus (A/chicken/Taiwan/A342/05(H6N1))	-	Taiwan	-
+DQ376904.1	Influenza A virus (A/chicken/Taiwan/0204/05(H6N1))	-	Taiwan	-
+DQ376903.1	Influenza A virus (A/duck/Taiwan/WB459/04(H6N5))	-	Taiwan	-
+DQ376902.1	Influenza A virus (A/chicken/Taiwan/ch1006/04(H6N1))	-	Taiwan	-
+DQ376901.1	Influenza A virus (A/duck/Kingmen/E322/04(H6N2))	-	Taiwan	-
+DQ376900.1	Influenza A virus (A/chicken/Taiwan/0305/04(H6N1))	-	Taiwan	-
+DQ376899.1	Influenza A virus (A/chicken/Taiwan/0114/04(H6N1))	-	Taiwan	-
+DQ376898.1	Influenza A virus (A/duck/Taiwan/A68/03(H6N1))	-	Taiwan	-
+DQ376897.1	Influenza A virus (A/chicken/Taiwan/1203/03(H6N1))	-	Taiwan	-
+DQ376896.1	Influenza A virus (A/chicken/Taiwan/0706/03(H6N1))	-	Taiwan	-
+DQ376895.1	Influenza A virus (A/duck/Taiwan/WB239/03(H6N1))	-	Taiwan	-
+DQ376894.1	Influenza A virus (A/chicken/Taiwan/0408/02(H6N1))	-	Taiwan	-
+DQ376893.1	Influenza A virus (A/chicken/Taiwan/0208/02(H6N1))	-	Taiwan	-
+DQ376892.1	Influenza A virus (A/chicken/Taiwan/0107/02(H6N1))	-	Taiwan	-
+DQ376891.1	Influenza A virus (A/chicken/Taiwan/A37/02(H6N1))	-	Taiwan	-
+DQ376890.1	Influenza A virus (A/chicken/Taiwan/0320/02(H6N1))	-	Taiwan	-
+DQ376889.1	Influenza A virus (A/chicken/Taiwan/PF3/02(H6N1))	-	Taiwan	-
+DQ376888.1	Influenza A virus (A/chicken/Taiwan/PF2/02(H6N1))	-	Taiwan	-
+DQ376887.1	Influenza A virus (A/chicken/Taiwan/PF1/02(H6N1))	-	Taiwan	-
+DQ376886.1	Influenza A virus (A/chicken/Taiwan/0222/02(H6N1))	-	Taiwan	-
+DQ376885.1	Influenza A virus (A/chicken/Taiwan/1215/01(H6N1))	-	Taiwan	-
+DQ376884.1	Influenza A virus (A/chicken/Taiwan/1212/01(H6N1))	-	Taiwan	-
+DQ376883.1	Influenza A virus (A/chicken/Taiwan/1205/01(H6N1))	-	Taiwan	-
+DQ376882.1	Influenza A virus (A/chicken/Taiwan/0329/01(H6N1))	-	Taiwan	-
+DQ376881.1	Influenza A virus (A/duck/Taiwan/29-3/00(H6N1))	-	Taiwan	-
+DQ376880.1	Influenza A virus (A/chicken/Taiwan/SP1/00(H6N1))	-	Taiwan	-
+DQ376879.1	Influenza A virus (A/duck/Taiwan/WB29/99(H6N1))	-	Taiwan	-
+DQ376878.1	Influenza A virus (A/chicken/Taiwan/165/99(H6N1))	-	Taiwan	-
+DQ376877.1	Influenza A virus (A/partridge/Taiwan/LU1/99(H6N1))	-	Taiwan	-
+DQ376876.1	Influenza A virus (A/chicken/Taiwan/0705/99(H6N1))	-	Taiwan	-
+DQ376875.1	Influenza A virus (A/chicken/Taiwan/ns2/99(H6N1))	-	Taiwan	-
+DQ376874.1	Influenza A virus (A/chicken/Taiwan/na3/98(H6N1))	-	Taiwan	-
+DQ376873.1	Influenza A virus (A/chicken/Taiwan/0824/97(H6N1))	-	Taiwan	-
+DQ376872.1	Influenza A virus (A/chicken/Taiwan/G23/87(H6N1))	-	Taiwan	-
+DQ376871.1	Influenza A virus (A/chicken/Taiwan/G2/87(H6N1))	-	Taiwan	-
+DQ376870.1	Influenza A virus (A/duck/Taiwan/0526/72(H6N1))	-	Taiwan	-
+DQ376869.1	Influenza A virus (A/chicken/Taiwan/A342/05(H6N1))	-	Taiwan	-
+DQ376868.1	Influenza A virus (A/chicken/Taiwan/0204/05(H6N1))	-	Taiwan	-
+DQ376867.1	Influenza A virus (A/duck/Taiwan/WB459/04(H6N5))	-	Taiwan	-
+DQ376866.1	Influenza A virus (A/duck/Kingmen/E322/04(H6N2))	-	Taiwan	-
+DQ376865.1	Influenza A virus (A/chicken/Taiwan/ch1006/04(H6N1))	-	Taiwan	-
+DQ376864.1	Influenza A virus (A/chicken/Taiwan/0305/04(H6N1))	-	Taiwan	-
+DQ376863.1	Influenza A virus (A/chicken/Taiwan/0114/04(H6N1))	-	Taiwan	-
+DQ376862.1	Influenza A virus (A/duck/Taiwan/A68/03(H6N1))	-	Taiwan	-
+DQ376861.1	Influenza A virus (A/chicken/Taiwan/1203/03(H6N1))	-	Taiwan	-
+DQ376860.1	Influenza A virus (A/chicken/Taiwan/0706/03(H6N1))	-	Taiwan	-
+DQ376859.1	Influenza A virus (A/duck/Taiwan/WB239/03(H6N1))	-	Taiwan	-
+DQ376858.1	Influenza A virus (A/chicken/Taiwan/0408/02(H6N1))	-	Taiwan	-
+DQ376857.1	Influenza A virus (A/chicken/Taiwan/0208/02(H6N1))	-	Taiwan	-
+DQ376856.1	Influenza A virus (A/chicken/Taiwan/0107/02(H6N1))	-	Taiwan	-
+DQ376855.1	Influenza A virus (A/chicken/Taiwan/A37/02(H6N1))	-	Taiwan	-
+DQ376854.1	Influenza A virus (A/chicken/Taiwan/0320/02(H6N1))	-	Taiwan	-
+DQ376853.1	Influenza A virus (A/chicken/Taiwan/PF3/02(H6N1))	-	Taiwan	-
+DQ376852.1	Influenza A virus (A/chicken/Taiwan/PF2/02(H6N1))	-	Taiwan	-
+DQ376851.1	Influenza A virus (A/chicken/Taiwan/PF1/02(H6N1))	-	Taiwan	-
+DQ376850.1	Influenza A virus (A/chicken/Taiwan/0222/02(H6N1))	-	Taiwan	-
+DQ376849.1	Influenza A virus (A/chicken/Taiwan/1215/01(H6N1))	-	Taiwan	-
+DQ376848.1	Influenza A virus (A/chicken/Taiwan/1212/01(H6N1))	-	Taiwan	-
+DQ376847.1	Influenza A virus (A/chicken/Taiwan/1205/01(H6N1))	-	Taiwan	-
+DQ376846.1	Influenza A virus (A/chicken/Taiwan/0329/01(H6N1))	-	Taiwan	-
+DQ376845.1	Influenza A virus (A/duck/Taiwan/29-3/00(H6N1))	-	Taiwan	-
+DQ376844.1	Influenza A virus (A/chicken/Taiwan/SP1/00(H6N1))	-	Taiwan	-
+DQ376843.1	Influenza A virus (A/duck/Taiwan/WB29/99(H6N1))	-	Taiwan	-
+DQ376842.1	Influenza A virus (A/chicken/Taiwan/165/99(H6N1))	-	Taiwan	-
+DQ376841.1	Influenza A virus (A/partridge/Taiwan/LU1/99(H6N1))	-	Taiwan	-
+DQ376840.1	Influenza A virus (A/chicken/Taiwan/0705/99(H6N1))	-	Taiwan	-
+DQ376839.1	Influenza A virus (A/chicken/Taiwan/ns2/99(H6N1))	-	Taiwan	-
+DQ376838.1	Influenza A virus (A/chicken/Taiwan/na3/98(H6N1))	-	Taiwan	-
+DQ376837.1	Influenza A virus (A/chicken/Taiwan/0824/97(H6N1))	-	Taiwan	-
+DQ376836.1	Influenza A virus (A/chicken/Taiwan/G23/87(H6N1))	-	Taiwan	-
+DQ376835.1	Influenza A virus (A/chicken/Taiwan/G2/87(H6N1))	-	Taiwan	-
+DQ376834.1	Influenza A virus (A/duck/Taiwan/0526/72(H6N1))	-	Taiwan	-
+DQ376833.1	Influenza A virus (A/chicken/Taiwan/A342/05(H6N1))	-	Taiwan	-
+DQ376832.1	Influenza A virus (A/chicken/Taiwan/0204/05(H6N1))	-	Taiwan	-
+DQ376831.1	Influenza A virus (A/duck/Taiwan/WB459/04(H6N5))	-	Taiwan	-
+DQ376830.1	Influenza A virus (A/duck/Kingmen/E322/04(H6N2))	-	Taiwan	-
+DQ376829.1	Influenza A virus (A/chicken/Taiwan/ch1006/04(H6N1))	-	Taiwan	-
+DQ376828.1	Influenza A virus (A/chicken/Taiwan/0305/04(H6N1))	-	Taiwan	-
+DQ376827.1	Influenza A virus (A/chicken/Taiwan/0114/04(H6N1))	-	Taiwan	-
+DQ376826.1	Influenza A virus (A/duck/Taiwan/A68/03(H6N1))	-	Taiwan	-
+DQ376825.1	Influenza A virus (A/chicken/Taiwan/1203/03(H6N1))	-	Taiwan	-
+DQ376824.1	Influenza A virus (A/chicken/Taiwan/0706/03(H6N1))	-	Taiwan	-
+DQ376823.1	Influenza A virus (A/duck/Taiwan/WB239/03(H6N1))	-	Taiwan	-
+DQ376822.1	Influenza A virus (A/chicken/Taiwan/0408/02(H6N1))	-	Taiwan	-
+DQ376821.1	Influenza A virus (A/chicken/Taiwan/0208/02(H6N1))	-	Taiwan	-
+DQ376820.1	Influenza A virus (A/chicken/Taiwan/0107/02(H6N1))	-	Taiwan	-
+DQ376819.1	Influenza A virus (A/chicken/Taiwan/A37/02(H6N1))	-	Taiwan	-
+DQ376818.1	Influenza A virus (A/chicken/Taiwan/0320/02(H6N1))	-	Taiwan	-
+DQ376817.1	Influenza A virus (A/chicken/Taiwan/PF3/02(H6N1))	-	Taiwan	-
+DQ376816.1	Influenza A virus (A/chicken/Taiwan/PF2/02(H6N1))	-	Taiwan	-
+DQ376815.1	Influenza A virus (A/chicken/Taiwan/PF1/02(H6N1))	-	Taiwan	-
+DQ376814.1	Influenza A virus (A/chicken/Taiwan/0222/02(H6N1))	-	Taiwan	-
+DQ376813.1	Influenza A virus (A/chicken/Taiwan/1215/01(H6N1))	-	Taiwan	-
+DQ376812.1	Influenza A virus (A/chicken/Taiwan/1212/01(H6N1))	-	Taiwan	-
+DQ376811.1	Influenza A virus (A/chicken/Taiwan/1205/01(H6N1))	-	Taiwan	-
+DQ376810.1	Influenza A virus (A/chicken/Taiwan/0329/01(H6N1))	-	Taiwan	-
+DQ376809.1	Influenza A virus (A/duck/Taiwan/29-3/00(H6N1))	-	Taiwan	-
+DQ376808.1	Influenza A virus (A/chicken/Taiwan/SP1/00(H6N1))	-	Taiwan	-
+DQ376807.1	Influenza A virus (A/duck/Taiwan/WB29/99(H6N1))	-	Taiwan	-
+DQ376806.1	Influenza A virus (A/chicken/Taiwan/165/99(H6N1))	-	Taiwan	-
+DQ376805.1	Influenza A virus (A/partridge/Taiwan/LU1/99(H6N1))	-	Taiwan	-
+DQ376804.1	Influenza A virus (A/chicken/Taiwan/ns2/99(H6N1))	-	Taiwan	-
+DQ376803.1	Influenza A virus (A/chicken/Taiwan/0705/99(H6N1))	-	Taiwan	-
+DQ376802.1	Influenza A virus (A/chicken/Taiwan/na3/98(H6N1))	-	Taiwan	-
+DQ376801.1	Influenza A virus (A/chicken/Taiwan/0824/97(H6N1))	-	Taiwan	-
+DQ376800.1	Influenza A virus (A/chicken/Taiwan/G23/87(H6N1))	-	Taiwan	-
+DQ376799.1	Influenza A virus (A/chicken/Taiwan/G2/87(H6N1))	-	Taiwan	-
+DQ376798.1	Influenza A virus (A/duck/Taiwan/0526/72(H6N1))	-	Taiwan	-
+DQ376761.1	Influenza A virus (A/chicken/Taiwan/A342/05(H6N1))	-	Taiwan	-
+DQ376760.1	Influenza A virus (A/chicken/Taiwan/0204/05(H6N1))	-	Taiwan	-
+DQ376759.1	Influenza A virus (A/duck/Taiwan/WB459/04(H6N5))	-	Taiwan	-
+DQ376758.1	Influenza A virus (A/duck/Kingmen/E322/04(H6N2))	-	Taiwan	-
+DQ376757.1	Influenza A virus (A/chicken/Taiwan/ch1006/04(H6N1))	-	Taiwan	-
+DQ376756.1	Influenza A virus (A/chicken/Taiwan/0305/04(H6N1))	-	Taiwan	-
+DQ376755.1	Influenza A virus (A/chicken/Taiwan/0114/04(H6N1))	-	Taiwan	-
+DQ376754.1	Influenza A virus (A/duck/Taiwan/A68/03(H6N1))	-	Taiwan	-
+DQ376753.1	Influenza A virus (A/chicken/Taiwan/1203/03(H6N1))	-	Taiwan	-
+DQ376752.1	Influenza A virus (A/chicken/Taiwan/0706/03(H6N1))	-	Taiwan	-
+DQ376751.1	Influenza A virus (A/duck/Taiwan/WB239/03(H6N1))	-	Taiwan	-
+DQ376750.1	Influenza A virus (A/chicken/Taiwan/0408/02(H6N1))	-	Taiwan	-
+DQ376749.1	Influenza A virus (A/chicken/Taiwan/0208/02(H6N1))	-	Taiwan	-
+DQ376748.1	Influenza A virus (A/chicken/Taiwan/0107/02(H6N1))	-	Taiwan	-
+DQ376747.1	Influenza A virus (A/chicken/Taiwan/A37/02(H6N1))	-	Taiwan	-
+DQ376746.1	Influenza A virus (A/chicken/Taiwan/0320/02(H6N1))	-	Taiwan	-
+DQ376745.1	Influenza A virus (A/chicken/Taiwan/PF3/02(H6N1))	-	Taiwan	-
+DQ376744.1	Influenza A virus (A/chicken/Taiwan/PF2/02(H6N1))	-	Taiwan	-
+DQ376743.1	Influenza A virus (A/chicken/Taiwan/PF1/02(H6N1))	-	Taiwan	-
+DQ376742.1	Influenza A virus (A/chicken/Taiwan/0222/02(H6N1))	-	Taiwan	-
+DQ376741.1	Influenza A virus (A/chicken/Taiwan/1215/01(H6N1))	-	Taiwan	-
+DQ376740.1	Influenza A virus (A/chicken/Taiwan/1212/01(H6N1))	-	Taiwan	-
+DQ376739.1	Influenza A virus (A/chicken/Taiwan/1205/01(H6N1))	-	Taiwan	-
+DQ376738.1	Influenza A virus (A/chicken/Taiwan/0329/01(H6N1))	-	Taiwan	-
+DQ376737.1	Influenza A virus (A/duck/Taiwan/29-3/00(H6N1))	-	Taiwan	-
+DQ376736.1	Influenza A virus (A/chicken/Taiwan/SP1/00(H6N1))	-	Taiwan	-
+DQ376735.1	Influenza A virus (A/duck/Taiwan/WB29/99(H6N1))	-	Taiwan	-
+DQ376734.1	Influenza A virus (A/chicken/Taiwan/165/99(H6N1))	-	Taiwan	-
+DQ376733.1	Influenza A virus (A/partridge/Taiwan/LU1/99(H6N1))	-	Taiwan	-
+DQ376732.1	Influenza A virus (A/chicken/Taiwan/0705/99(H6N1))	-	Taiwan	-
+DQ376731.1	Influenza A virus (A/chicken/Taiwan/ns2/99(H6N1))	-	Taiwan	-
+DQ376730.1	Influenza A virus (A/chicken/Taiwan/na3/98(H6N1))	-	Taiwan	-
+DQ376729.1	Influenza A virus (A/chicken/Taiwan/0824/97(H6N1))	-	Taiwan	-
+DQ376728.1	Influenza A virus (A/chicken/Taiwan/G23/87(H6N1))	-	Taiwan	-
+DQ376727.1	Influenza A virus (A/chicken/Taiwan/G2/87(H6N1))	-	Taiwan	-
+DQ376726.1	Influenza A virus (A/duck/Taiwan/0526/72(H6N1))	-	Taiwan	-
+DQ376725.1	Influenza A virus (A/chicken/Taiwan/A342/05(H6N1))	-	Taiwan	-
+DQ376724.1	Influenza A virus (A/chicken/Taiwan/0204/05(H6N1))	-	Taiwan	-
+DQ376723.1	Influenza A virus (A/duck/Taiwan/WB459/04(H6N5))	-	Taiwan	-
+DQ376722.1	Influenza A virus (A/chicken/Taiwan/ch1006/04(H6N1))	-	Taiwan	-
+DQ376721.1	Influenza A virus (A/duck/Kingmen/E322/04(H6N2))	-	Taiwan	-
+DQ376720.1	Influenza A virus (A/chicken/Taiwan/0305/04(H6N1))	-	Taiwan	-
+DQ376719.1	Influenza A virus (A/chicken/Taiwan/0114/04(H6N1))	-	Taiwan	-
+DQ376718.1	Influenza A virus (A/duck/Taiwan/A68/03(H6N1))	-	Taiwan	-
+DQ376717.1	Influenza A virus (A/chicken/Taiwan/1203/03(H6N1))	-	Taiwan	-
+DQ376716.1	Influenza A virus (A/chicken/Taiwan/0706/03(H6N1))	-	Taiwan	-
+DQ376715.1	Influenza A virus (A/duck/Taiwan/WB239/03(H6N1))	-	Taiwan	-
+DQ376714.1	Influenza A virus (A/chicken/Taiwan/0408/02(H6N1))	-	Taiwan	-
+DQ376713.1	Influenza A virus (A/chicken/Taiwan/0208/02(H6N1))	-	Taiwan	-
+DQ376712.1	Influenza A virus (A/chicken/Taiwan/0107/02(H6N1))	-	Taiwan	-
+DQ376711.1	Influenza A virus (A/chicken/Taiwan/A37/02(H6N1))	-	Taiwan	-
+DQ376710.1	Influenza A virus (A/chicken/Taiwan/0320/02(H6N1))	-	Taiwan	-
+DQ376709.1	Influenza A virus (A/chicken/Taiwan/PF3/02(H6N1))	-	Taiwan	-
+DQ376708.1	Influenza A virus (A/chicken/Taiwan/PF2/02(H6N1))	-	Taiwan	-
+DQ376707.1	Influenza A virus (A/chicken/Taiwan/PF1/02(H6N1))	-	Taiwan	-
+DQ376706.1	Influenza A virus (A/chicken/Taiwan/0222/02(H6N1))	-	Taiwan	-
+DQ376705.1	Influenza A virus (A/chicken/Taiwan/1215/01(H6N1))	-	Taiwan	-
+DQ376704.1	Influenza A virus (A/chicken/Taiwan/1212/01(H6N1))	-	Taiwan	-
+DQ376703.1	Influenza A virus (A/chicken/Taiwan/1205/01(H6N1))	-	Taiwan	-
+DQ376702.1	Influenza A virus (A/chicken/Taiwan/0329/01(H6N1))	-	Taiwan	-
+DQ376701.1	Influenza A virus (A/chicken/Taiwan/SP1/00(H6N1))	-	Taiwan	-
+DQ376700.1	Influenza A virus (A/duck/Taiwan/29-3/00(H6N1))	-	Taiwan	-
+DQ376699.1	Influenza A virus (A/duck/Taiwan/WB29/99(H6N1))	-	Taiwan	-
+DQ376698.1	Influenza A virus (A/chicken/Taiwan/165/99(H6N1))	-	Taiwan	-
+DQ376697.1	Influenza A virus (A/partridge/Taiwan/LU1/99(H6N1))	-	Taiwan	-
+DQ376696.1	Influenza A virus (A/chicken/Taiwan/0705/99(H6N1))	-	Taiwan	-
+DQ376695.1	Influenza A virus (A/chicken/Taiwan/ns2/99(H6N1))	-	Taiwan	-
+DQ376694.1	Influenza A virus (A/chicken/Taiwan/na3/98(H6N1))	-	Taiwan	-
+DQ376693.1	Influenza A virus (A/chicken/Taiwan/0824/97(H6N1))	-	Taiwan	-
+DQ376692.1	Influenza A virus (A/chicken/Taiwan/G23/87(H6N1))	-	Taiwan	-
+DQ376691.1	Influenza A virus (A/chicken/Taiwan/G2/87(H6N1))	-	Taiwan	-
+DQ376690.1	Influenza A virus (A/duck/Taiwan/0526/72(H6N1))	-	Taiwan	-
+DQ376689.1	Influenza A virus (A/chicken/Taiwan/A342/05(H6N1))	-	Taiwan	-
+DQ376688.1	Influenza A virus (A/chicken/Taiwan/0204/05(H6N1))	-	Taiwan	-
+DQ376687.1	Influenza A virus (A/duck/Taiwan/WB459/04(H6N5))	-	Taiwan	-
+DQ376686.1	Influenza A virus (A/chicken/Taiwan/ch1006/04(H6N1))	-	Taiwan	-
+DQ376685.1	Influenza A virus (A/duck/Kingmen/E322/04(H6N2))	-	Taiwan	-
+DQ376684.1	Influenza A virus (A/chicken/Taiwan/0305/04(H6N1))	-	Taiwan	-
+DQ376683.1	Influenza A virus (A/chicken/Taiwan/0114/04(H6N1))	-	Taiwan	-
+DQ376682.1	Influenza A virus (A/duck/Taiwan/A68/03(H6N1))	-	Taiwan	-
+DQ376681.1	Influenza A virus (A/duck/Taiwan/WB239/03(H6N1))	-	Taiwan	-
+DQ376680.1	Influenza A virus (A/chicken/Taiwan/1203/03(H6N1))	-	Taiwan	-
+DQ376679.1	Influenza A virus (A/chicken/Taiwan/0706/03(H6N1))	-	Taiwan	-
+DQ376678.1	Influenza A virus (A/chicken/Taiwan/A37/02(H6N1))	-	Taiwan	-
+DQ376677.1	Influenza A virus (A/chicken/Taiwan/PF3/02(H6N1))	-	Taiwan	-
+DQ376676.1	Influenza A virus (A/chicken/Taiwan/PF2/02(H6N1))	-	Taiwan	-
+DQ376675.1	Influenza A virus (A/chicken/Taiwan/PF1/02(H6N1))	-	Taiwan	-
+DQ376674.1	Influenza A virus (A/chicken/Taiwan/0408/02(H6N1))	-	Taiwan	-
+DQ376673.1	Influenza A virus (A/chicken/Taiwan/0320/02(H6N1))	-	Taiwan	-
+DQ376672.1	Influenza A virus (A/chicken/Taiwan/0222/02(H6N1))	-	Taiwan	-
+DQ376671.1	Influenza A virus (A/chicken/Taiwan/0208/02(H6N1))	-	Taiwan	-
+DQ376670.1	Influenza A virus (A/chicken/Taiwan/0107/02(H6N1))	-	Taiwan	-
+DQ376669.1	Influenza A virus (A/chicken/Taiwan/0329/01(H6N1))	-	Taiwan	-
+DQ376668.1	Influenza A virus (A/chicken/Taiwan/1215/01(H6N1))	-	Taiwan	-
+DQ376667.1	Influenza A virus (A/chicken/Taiwan/1212/01(H6N1))	-	Taiwan	-
+DQ376666.1	Influenza A virus (A/chicken/Taiwan/1205/01(H6N1))	-	Taiwan	-
+DQ376665.1	Influenza A virus (A/duck/Taiwan/29-3/00(H6N1))	-	Taiwan	-
+DQ376664.1	Influenza A virus (A/chicken/Taiwan/SP1/00(H6N1))	-	Taiwan	-
+DQ376663.1	Influenza A virus (A/duck/Taiwan/WB29/99(H6N1))	-	Taiwan	-
+DQ376662.1	Influenza A virus (A/chicken/Taiwan/165/99(H6N1))	-	Taiwan	-
+DQ376661.1	Influenza A virus (A/partridge/Taiwan/LU1/99(H6N1))	-	Taiwan	-
+DQ376660.1	Influenza A virus (A/chicken/Taiwan/ns2/99(H6N1))	-	Taiwan	-
+DQ376659.1	Influenza A virus (A/chicken/Taiwan/0705/99(H6N1))	-	Taiwan	-
+DQ376658.1	Influenza A virus (A/chicken/Taiwan/na3/98(H6N1))	-	Taiwan	-
+DQ376657.1	Influenza A virus (A/chicken/Taiwan/0824/97(H6N1))	-	Taiwan	-
+DQ376656.1	Influenza A virus (A/chicken/Taiwan/G23/87(H6N1))	-	Taiwan	-
+DQ376655.1	Influenza A virus (A/chicken/Taiwan/G2/87(H6N1))	-	Taiwan	-
+DQ376654.1	Influenza A virus (A/duck/Taiwan/0526/72(H6N1))	-	Taiwan	-
+DQ376653.1	Influenza A virus (A/chicken/Taiwan/A342/05(H6N1))	-	Taiwan	-
+DQ376652.1	Influenza A virus (A/chicken/Taiwan/0204/05(H6N1))	-	Taiwan	-
+DQ376651.1	Influenza A virus (A/duck/Taiwan/WB459/04(H6N5))	-	Taiwan	-
+DQ376650.1	Influenza A virus (A/duck/Kingmen/E322/04(H6N2))	-	Taiwan	-
+DQ376649.1	Influenza A virus (A/chicken/Taiwan/ch1006/04(H6N1))	-	Taiwan	-
+DQ376648.1	Influenza A virus (A/chicken/Taiwan/0305/04(H6N1))	-	Taiwan	-
+DQ376647.1	Influenza A virus (A/chicken/Taiwan/0114/04(H6N1))	-	Taiwan	-
+DQ376646.1	Influenza A virus (A/duck/Taiwan/A68/03(H6N1))	-	Taiwan	-
+DQ376645.1	Influenza A virus (A/chicken/Taiwan/1203/03(H6N1))	-	Taiwan	-
+DQ376644.1	Influenza A virus (A/chicken/Taiwan/0706/03(H6N1))	-	Taiwan	-
+DQ376643.1	Influenza A virus (A/duck/Taiwan/WB239/03(H6N1))	-	Taiwan	-
+DQ376642.1	Influenza A virus (A/chicken/Taiwan/0408/02(H6N1))	-	Taiwan	-
+DQ376641.1	Influenza A virus (A/chicken/Taiwan/0208/02(H6N1))	-	Taiwan	-
+DQ376640.1	Influenza A virus (A/chicken/Taiwan/0107/02(H6N1))	-	Taiwan	-
+DQ376639.1	Influenza A virus (A/chicken/Taiwan/A37/02(H6N1))	-	Taiwan	-
+DQ376638.1	Influenza A virus (A/chicken/Taiwan/0320/02(H6N1))	-	Taiwan	-
+DQ376637.1	Influenza A virus (A/chicken/Taiwan/PF3/02(H6N1))	-	Taiwan	-
+DQ376636.1	Influenza A virus (A/chicken/Taiwan/PF2/02(H6N1))	-	Taiwan	-
+DQ376635.1	Influenza A virus (A/chicken/Taiwan/PF1/02(H6N1))	-	Taiwan	-
+DQ376634.1	Influenza A virus (A/chicken/Taiwan/0222/02(H6N1))	-	Taiwan	-
+DQ376633.1	Influenza A virus (A/chicken/Taiwan/0329/01(H6N1))	-	Taiwan	-
+DQ376632.1	Influenza A virus (A/chicken/Taiwan/1215/01(H6N1))	-	Taiwan	-
+DQ376631.1	Influenza A virus (A/chicken/Taiwan/1212/01(H6N1))	-	Taiwan	-
+DQ376630.1	Influenza A virus (A/chicken/Taiwan/1205/01(H6N1))	-	Taiwan	-
+DQ376629.1	Influenza A virus (A/duck/Taiwan/29-3/00(H6N1))	-	Taiwan	-
+DQ376628.1	Influenza A virus (A/chicken/Taiwan/SP1/00(H6N1))	-	Taiwan	-
+DQ376627.1	Influenza A virus (A/duck/Taiwan/WB29/99(H6N1))	-	Taiwan	-
+DQ376626.1	Influenza A virus (A/chicken/Taiwan/165/99(H6N1))	-	Taiwan	-
+DQ376625.1	Influenza A virus (A/partridge/Taiwan/LU1/99(H6N1))	-	Taiwan	-
+DQ376624.1	Influenza A virus (A/chicken/Taiwan/0705/99(H6N1))	-	Taiwan	-
+DQ376623.1	Influenza A virus (A/chicken/Taiwan/ns2/99(H6N1))	-	Taiwan	-
+DQ376622.1	Influenza A virus (A/chicken/Taiwan/na3/98(H6N1))	-	Taiwan	-
+DQ376621.1	Influenza A virus (A/chicken/Taiwan/0824/97(H6N1))	-	Taiwan	-
+DQ376620.1	Influenza A virus (A/chicken/Taiwan/G23/87(H6N1))	-	Taiwan	-
+DQ376619.1	Influenza A virus (A/chicken/Taiwan/G2/87(H6N1))	-	Taiwan	-
+DQ376618.1	Influenza A virus (A/duck/Taiwan/0526/72(H6N1))	-	Taiwan	-
+AF208598.1	Influenza A virus (A/chicken/Taiwan/7-5/99(H6N1))	-	-	-
+AB269695.2	Influenza A virus (A/duck/Taiwan/4201/99(H7N7))	-	-	-
+AY518367.1	Influenza A virus (A/duck/China/E319-2/03(H5N1))	-	-	-
+AY518366.1	Influenza A virus (A/duck/China/E319-2/03(H5N1))	-	-	-
+AY518365.1	Influenza A virus (A/duck/China/E319-2/03(H5N1))	-	-	-
+AY518364.1	Influenza A virus (A/duck/China/E319-2/03(H5N1))	-	-	-
+AY518363.1	Influenza A virus (A/duck/China/E319-2/03(H5N1))	-	-	-
+AY518362.1	Influenza A virus (A/duck/China/E319-2/03(H5N1))	-	-	-
+AY518361.1	Influenza A virus (A/duck/China/E319-2/03(H5N1))	-	-	-
+AY518360.1	Influenza A virus (A/duck/China/E319-2/03(H5N1))	-	-	-
+AB297926.1	Influenza A virus (A/duck/Taiwan/Ya103/1993(H7N7))	-	-	-
+AB297925.1	Influenza A virus (A/duck/Taiwan/Ya103/1993(H7N7))	-	-	-
+AB297924.1	Influenza A virus (A/duck/Taiwan/33/1993(H7N7))	-	-	-
+AB297923.1	Influenza A virus (A/duck/Taiwan/33/1993(H7N7))	-	-	-
+DQ432693.1	Influenza A virus (A/chicken/Taiwan/CE9/2004)	chicken	Taiwan	2004
+DQ447187.1	Influenza A virus (A/swine/Taiwan/CO935/2004(H1N2))	pig	Taiwan	-
+DQ447186.1	Influenza A virus (A/swine/Taiwan/0408/2004(H3N1))	pig	Taiwan	-
+DQ447185.1	Influenza A virus (A/swine/Taiwan/0408/2004(H3N1))	pig	Taiwan	-
+DQ447184.1	Influenza A virus (A/swine/Taiwan/CO935/2004(H1N2))	pig	Taiwan	-

@@ -1,0 +1,24 @@
+#!/bin/sh
+
+target="$1"
+
+if [ "$#" -eq 0 ]
+then
+  echo "Must supply path to archive files"
+  exit 1
+fi
+
+osname=`uname -s | sed -e 's/_NT-.*$/_NT/; s/^MINGW[0-9]*/CYGWIN/'`
+if [ "$osname" == "CYGWIN_NT" -a -x /bin/cygpath ]
+then
+  target=`cygpath -w "$target"`
+fi
+
+target=${target%/}
+
+while read uid
+do
+  dir=`echo "$uid" | xtract -trie -gzip`
+  pth=`echo "$target/$dir"`
+  rm "$pth"
+done

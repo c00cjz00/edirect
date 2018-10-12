@@ -1,0 +1,39 @@
+KY073240.1	Porcine reproductive and respiratory syndrome virus	nursery pig	Taiwan	Jul-2010
+KY769953.1	Porcine reproductive and respiratory syndrome virus	swine	Taiwan	14-Oct-2014
+AF155234.1	Porcine reproductive and respiratory syndrome virus	-	-	-
+KP998431.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	1991
+KP998430.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2012
+KP998429.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	1992
+KP998428.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2002
+KP998427.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2004
+KP998426.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2003
+KP998425.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	1997
+KP998424.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2000
+KP998423.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	1999
+KP998422.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	1998
+KP998421.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2005
+KP998420.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2000
+KP998419.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2001
+KP998418.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2004
+KP998417.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2013
+KP998416.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2002
+KP998415.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2013
+KP998414.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2009
+KP998413.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2005
+KP998412.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2008
+KP998411.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2011
+KP998410.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2011
+KP998409.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2012
+KP998408.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2012
+KP998407.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2012
+KP998406.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2012
+KP998405.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2005
+KP998404.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2011
+KP998403.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2012
+KP998402.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2005
+KP998401.1	Porcine reproductive and respiratory syndrome virus	Sus scrofa	Taiwan	2005
+KC771271.2	Porcine reproductive and respiratory syndrome virus	swine	Taiwan	25-Oct-2012
+AF121131.1	Porcine reproductive and respiratory syndrome virus	-	-	-
+AF121267.1	Porcine reproductive and respiratory syndrome virus	-	Taiwan	-
+AF035409.1	Porcine reproductive and respiratory syndrome virus	-	-	-
+AF030306.1	Porcine reproductive and respiratory syndrome virus	-	-	-

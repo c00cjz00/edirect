@@ -1,0 +1,107 @@
+KY929406.1	Porcine epidemic diarrhea virus	pig	Taiwan	02-Jan-2016
+KY929405.1	Porcine epidemic diarrhea virus	pig	Taiwan	04-May-2015
+KR632492.1	Porcine epidemic diarrhea virus	swine	Taiwan	14-Feb-2014
+KR632491.1	Porcine epidemic diarrhea virus	swine	Taiwan	27-Jan-2014
+KR632490.1	Porcine epidemic diarrhea virus	swine	Taiwan	25-Feb-2014
+KP768390.1	Porcine epidemic diarrhea virus	-	Taiwan	25-Feb-2007
+KP276252.1	Porcine epidemic diarrhea virus	Sus scrofa domesticus	Taiwan	30-Apr-2014
+KP276251.1	Porcine epidemic diarrhea virus	Sus scrofa domesticus	Taiwan	30-Apr-2014
+KP276250.1	Porcine epidemic diarrhea virus	Sus scrofa domesticus	Taiwan	30-Apr-2014
+KP276249.1	Porcine epidemic diarrhea virus	Sus scrofa domesticus	Taiwan	12-May-2014
+KP276248.1	Porcine epidemic diarrhea virus	Sus scrofa domesticus	Taiwan	12-May-2014
+KP276247.1	Porcine epidemic diarrhea virus	Sus scrofa domesticus	Taiwan	12-May-2014
+KP276246.1	Porcine epidemic diarrhea virus	Sus scrofa domesticus	Taiwan	29-Apr-2014
+KP276245.1	Porcine epidemic diarrhea virus	Sus scrofa domesticus	Taiwan	29-Apr-2014
+KP276244.1	Porcine epidemic diarrhea virus	Sus scrofa domesticus	Taiwan	29-Apr-2014
+KM262780.1	Porcine epidemic diarrhea virus	porcine	Taiwan	06-May-2014
+KM246734.1	Porcine epidemic diarrhea virus	porcine	Taiwan	23-Apr-2014
+KM246733.1	Porcine epidemic diarrhea virus	porcine	Taiwan	20-Jan-2014
+KM246732.1	Porcine epidemic diarrhea virus	porcine	Taiwan	07-Jan-2012
+KM246731.1	Porcine epidemic diarrhea virus	porcine	Taiwan	30-May-2014
+KM246730.1	Porcine epidemic diarrhea virus	porcine	Taiwan	03-Mar-2014
+KM246729.1	Porcine epidemic diarrhea virus	porcine	Taiwan	06-Feb-2014
+KM246728.1	Porcine epidemic diarrhea virus	porcine	Taiwan	29-May-2014
+KM246727.1	Porcine epidemic diarrhea virus	porcine	Taiwan	22-May-2014
+KM246726.1	Porcine epidemic diarrhea virus	porcine	Taiwan	15-May-2014
+KM246725.1	Porcine epidemic diarrhea virus	porcine	Taiwan	08-May-2014
+KM246724.1	Porcine epidemic diarrhea virus	porcine	Taiwan	07-May-2014
+KM246723.1	Porcine epidemic diarrhea virus	porcine	Taiwan	29-Apr-2014
+KM246722.1	Porcine epidemic diarrhea virus	porcine	Taiwan	28-Apr-2014
+KM246721.1	Porcine epidemic diarrhea virus	porcine	Taiwan	25-Apr-2014
+KM246720.1	Porcine epidemic diarrhea virus	porcine	Taiwan	23-Apr-2014
+KM246719.1	Porcine epidemic diarrhea virus	porcine	Taiwan	21-Apr-2014
+KM246718.1	Porcine epidemic diarrhea virus	porcine	Taiwan	18-Apr-2014
+KM246717.1	Porcine epidemic diarrhea virus	porcine	Taiwan	02-Apr-2014
+KM246716.1	Porcine epidemic diarrhea virus	porcine	Taiwan	05-Mar-2014
+KM246715.1	Porcine epidemic diarrhea virus	porcine	Taiwan	04-Mar-2014
+KM246714.1	Porcine epidemic diarrhea virus	porcine	Taiwan	18-Feb-2014
+KM246713.1	Porcine epidemic diarrhea virus	porcine	Taiwan	13-Feb-2014
+KM246712.1	Porcine epidemic diarrhea virus	porcine	Taiwan	27-Jan-2014
+KM246711.1	Porcine epidemic diarrhea virus	porcine	Taiwan	27-Jan-2014
+KM246710.1	Porcine epidemic diarrhea virus	porcine	Taiwan	21-Jan-2014
+KM246709.1	Porcine epidemic diarrhea virus	porcine	Taiwan	13-Jan-2014
+KM246708.1	Porcine epidemic diarrhea virus	porcine	Taiwan	23-Dec-2013
+KM246707.1	Porcine epidemic diarrhea virus	porcine	Taiwan	23-Dec-2013
+KM246706.1	Porcine epidemic diarrhea virus	porcine	Taiwan	23-Oct-2013
+KM246705.1	Porcine epidemic diarrhea virus	porcine	Taiwan	20-May-2014
+KM246704.1	Porcine epidemic diarrhea virus	porcine	Taiwan	14-May-2014
+KM246703.1	Porcine epidemic diarrhea virus	porcine	Taiwan	07-May-2014
+KM246702.1	Porcine epidemic diarrhea virus	porcine	Taiwan	02-May-2014
+KM246701.1	Porcine epidemic diarrhea virus	porcine	Taiwan	23-Apr-2014
+KM246700.1	Porcine epidemic diarrhea virus	porcine	Taiwan	09-Apr-2014
+KM246699.1	Porcine epidemic diarrhea virus	porcine	Taiwan	02-Apr-2014
+KM246698.1	Porcine epidemic diarrhea virus	porcine	Taiwan	01-Apr-2014
+KM246697.1	Porcine epidemic diarrhea virus	porcine	Taiwan	25-Mar-2014
+KM246696.1	Porcine epidemic diarrhea virus	porcine	Taiwan	18-Mar-2014
+KM246695.1	Porcine epidemic diarrhea virus	porcine	Taiwan	13-Mar-2014
+KM246694.1	Porcine epidemic diarrhea virus	porcine	Taiwan	10-Mar-2014
+KM246693.1	Porcine epidemic diarrhea virus	porcine	Taiwan	13-Feb-2014
+KM246692.1	Porcine epidemic diarrhea virus	porcine	Taiwan	13-Feb-2014
+KM246691.1	Porcine epidemic diarrhea virus	porcine	Taiwan	10-Feb-2014
+KM246690.1	Porcine epidemic diarrhea virus	porcine	Taiwan	27-Jan-2014
+KM246689.1	Porcine epidemic diarrhea virus	porcine	Taiwan	23-Jan-2014
+KM246688.1	Porcine epidemic diarrhea virus	porcine	Taiwan	22-Jan-2014
+KM246687.1	Porcine epidemic diarrhea virus	porcine	Taiwan	20-Jan-2014
+KM246686.1	Porcine epidemic diarrhea virus	porcine	Taiwan	17-Jan-2014
+KM246685.1	Porcine epidemic diarrhea virus	porcine	Taiwan	15-Jan-2014
+KM246684.1	Porcine epidemic diarrhea virus	porcine	Taiwan	15-Jan-2014
+KM246683.1	Porcine epidemic diarrhea virus	porcine	Taiwan	14-Jan-2014
+KM246682.1	Porcine epidemic diarrhea virus	porcine	Taiwan	13-Jan-2014
+KM246681.1	Porcine epidemic diarrhea virus	porcine	Taiwan	13-Jan-2014
+KM246680.1	Porcine epidemic diarrhea virus	porcine	Taiwan	13-Jan-2014
+KM246679.1	Porcine epidemic diarrhea virus	porcine	Taiwan	13-Jan-2014
+KM246678.1	Porcine epidemic diarrhea virus	porcine	Taiwan	06-Jan-2014
+KM246677.1	Porcine epidemic diarrhea virus	porcine	Taiwan	06-Jan-2014
+KM246676.1	Porcine epidemic diarrhea virus	porcine	Taiwan	03-Jan-2014
+KM246675.1	Porcine epidemic diarrhea virus	porcine	Taiwan	27-Dec-2013
+KM246674.1	Porcine epidemic diarrhea virus	porcine	Taiwan	27-Dec-2013
+KM246673.1	Porcine epidemic diarrhea virus	porcine	Taiwan	27-Dec-2013
+KM246672.1	Porcine epidemic diarrhea virus	porcine	Taiwan	24-Dec-2013
+KJ624414.1	Porcine epidemic diarrhea virus	pig	Taiwan	27-Jan-2014
+KJ624413.1	Porcine epidemic diarrhea virus	pig	Taiwan	24-Jan-2014
+KJ624412.1	Porcine epidemic diarrhea virus	pig	Taiwan	27-Jan-2014
+KJ624411.1	Porcine epidemic diarrhea virus	pig	Taiwan	27-Jan-2014
+KJ624410.1	Porcine epidemic diarrhea virus	pig	Taiwan	27-Jan-2014
+KJ624409.1	Porcine epidemic diarrhea virus	pig	Taiwan	23-Jan-2014
+KJ624408.1	Porcine epidemic diarrhea virus	pig	Taiwan	28-Jan-2014
+KJ624407.1	Porcine epidemic diarrhea virus	pig	Taiwan	06-Feb-2014
+KJ434313.1	Porcine epidemic diarrhea virus	pig	Taiwan: Pingtung	27-Jan-2014
+KJ434312.1	Porcine epidemic diarrhea virus	pig	Taiwan: Pingtung	27-Jan-2014
+KJ434311.1	Porcine epidemic diarrhea virus	pig	Taiwan: Pingtung	27-Jan-2014
+KJ434310.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	20-Jan-2014
+KJ434309.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	20-Jan-2014
+KJ434308.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	20-Jan-2014
+KJ434307.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	20-Jan-2014
+KJ434306.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	20-Jan-2014
+KJ434305.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	20-Jan-2014
+KJ434304.1	Porcine epidemic diarrhea virus	pig	Taiwan: Pingtung	15-Jan-2014
+KJ434303.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	15-Jan-2014
+KJ434302.1	Porcine epidemic diarrhea virus	pig	Taiwan: Pingtung	13-Jan-2014
+KJ434301.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	13-Jan-2014
+KJ434300.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	13-Jan-2014
+KJ434299.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	13-Jan-2014
+KJ434298.1	Porcine epidemic diarrhea virus	pig	Taiwan: Youlin	13-Jan-2014
+KJ434297.1	Porcine epidemic diarrhea virus	pig	Taiwan: Pingtung	06-Jan-2014
+KJ434296.1	Porcine epidemic diarrhea virus	pig	Taiwan: Pingtung	26-Dec-2013
+KJ434295.1	Porcine epidemic diarrhea virus	pig	Taiwan: Pingtung	24-Dec-2013
+KJ434294.1	Porcine epidemic diarrhea virus	pig	Taiwan: Pingtung	23-Oct-2013

@@ -1,0 +1,66 @@
+KR149697.1	Foot-and-mouth disease virus - type O	-	China: Taiwan	1997
+KX377689.1	Foot-and-mouth disease virus - type O	porcine	Taiwan: Penghu Islands	20-Jan-2012
+KJ831709.1	Foot-and-mouth disease virus - type O	porcine	Taiwan	2009
+KJ831708.1	Foot-and-mouth disease virus - type O	porcine	Taiwan	1997
+KJ831707.1	Foot-and-mouth disease virus - type O	porcine	Taiwan	1997
+AF095885.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095884.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095883.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095882.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095881.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095880.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095879.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095878.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095877.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095876.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095875.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095874.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095873.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095872.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095871.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095870.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095869.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095868.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095867.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095866.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095865.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095864.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF095863.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF167307.1	Foot-and-mouth disease virus - type O	cattle	-	-
+AF030259.1	Foot-and-mouth disease virus	-	-	-
+AF024606.1	Foot-and-mouth disease virus	-	-	-
+AF162277.1	Foot-and-mouth disease virus - type O	bovine	-	-
+AH008350.2	Foot-and-mouth disease virus - type O	cattle	-	-
+KM243161.1	Foot-and-mouth disease virus - type O	pig	Taiwan: Mai-Lao	04-Feb-2009
+KM243069.1	Foot-and-mouth disease virus - type O	pig	Taiwan: Taitung	24-Apr-1997
+KM243068.1	Foot-and-mouth disease virus - type O	pig	Taiwan: Yilan	17-Apr-1997
+KJ606982.1	Foot-and-mouth disease virus - type O	-	China: Taiwan	1998
+KJ427752.1	Foot-and-mouth disease virus - type O	porcine	Taiwan: Kinmen island	29-Jan-2012
+GQ292739.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	17-Feb-2009
+GQ292738.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	25-Feb-2001
+GQ292737.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	22-Oct-2000
+GQ292736.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	29-Apr-1999
+GQ292735.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	21-Apr-1999
+GQ292734.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	20-Apr-1999
+GQ292733.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	15-Apr-1999
+GQ292732.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	23-Feb-1999
+GQ292731.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	20-Feb-1999
+GQ292730.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	14-Feb-1999
+GQ292729.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	07-Apr-1998
+GQ292728.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	23-Jan-1998
+GQ292727.2	Foot-and-mouth disease virus - type O	porcine	Taiwan	07-Jan-1998
+GQ292740.1	Foot-and-mouth disease virus - type O	porcine	Taiwan	17-Feb-2009
+GQ292726.1	Foot-and-mouth disease virus - type O	porcine	Taiwan	07-Dec-1997
+AY593835.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AY593833.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AF154271.1	Foot-and-mouth disease virus	-	-	-
+AF308157.1	Foot-and-mouth disease virus - type O	swine	Taiwan: Yunlin Prefecture	-
+AF026168.2	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AJ539137.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AJ539136.1	Foot-and-mouth disease virus - type O	-	Taiwan	-
+AJ296322.1	Foot-and-mouth disease virus - type O	-	Taiwan:Province of China	-
+AJ296321.1	Foot-and-mouth disease virus - type O	-	Taiwan:Province of China	-
+AJ295001.1	Foot-and-mouth disease virus - type O	porcine	Taiwan	-
+AJ295000.1	Foot-and-mouth disease virus - type O	bovine	Taiwan	-
+AJ294928.1	Foot-and-mouth disease virus - type O	porcine	Taiwan	-
+AJ294927.1	Foot-and-mouth disease virus - type O	bovine	Taiwan	-

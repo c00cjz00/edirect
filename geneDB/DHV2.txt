@@ -1,0 +1,5 @@
+EF067924.1	Duck hepatitis virus 2 strain 90D	-	-	-
+EF067923.1	Duck hepatitis virus 2 strain 04G	-	-	-
+DQ249301.1	Duck hepatitis A virus 1	-	-	-
+DQ249300.1	Duck hepatitis A virus 1	-	-	-
+DQ249299.1	Duck hepatitis A virus 1	-	-	-

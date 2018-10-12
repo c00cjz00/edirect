@@ -1,0 +1,25 @@
+#!/bin/sh
+
+target="$1"
+flag="none"
+
+if [ "$#" -eq 0 ]
+then
+  echo "Must supply path to archive files"
+  exit 1
+fi
+
+if [ "$#" -gt 1 ]
+then
+  flag="$1"
+  target="$2"
+fi
+
+osname=`uname -s | sed -e 's/_NT-.*$/_NT/; s/^MINGW[0-9]*/CYGWIN/'`
+if [ "$osname" == "CYGWIN_NT" -a -x /bin/cygpath ]
+then
+  target=`cygpath -w "$target"`
+fi
+
+xtract -archive "$target" -gzip -flag "$flag" \
+  -head "<PubmedArticleSet>" -tail "</PubmedArticleSet>"

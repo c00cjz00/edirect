@@ -1,0 +1,55 @@
+Found local::lib.
+Found Encode::Locale.
+Found File::Listing.
+Found HTML::Parser.
+Found HTML::Tagset.
+Found HTML::Tree.
+Missing HTTP:Cookies; initializing CPAN.
+Sorry, we have to rerun the configuration dialog for CPAN.pm due to
+some missing parameters. Configuration will be written to
+ <<_cpan/CPAN/MyConfig.pm>>
+
+Your 'urllist' is already configured. Type 'o conf init urllist' to change it.
+
+Autoconfiguration complete.
+
+commit: wrote '_cpan/CPAN/MyConfig.pm'
+
+You can re-run configuration any time with 'o conf init' in the CPAN shell
+Fetching with LWP:
+http://www.perl.org/CPAN/authors/01mailrc.txt.gz
+Reading '/home/c00cjz00/ncbi/edirect/_cpan/sources/authors/01mailrc.txt.gz'
+............................................................................DONE
+Fetching with LWP:
+http://www.perl.org/CPAN/modules/02packages.details.txt.gz
+Reading '/home/c00cjz00/ncbi/edirect/_cpan/sources/modules/02packages.details.txt.gz'
+  Database was generated on Fri, 13 Oct 2017 06:53:57 GMT
+.............
+  New CPAN.pm version (v2.16) available.
+  [Currently running version is v2.00]
+  You might want to try
+    install CPAN
+    reload cpan
+  to both upgrade CPAN.pm and run the new version without leaving
+  the current session.
+
+
+...............................................................DONE
+Fetching with LWP:
+http://www.perl.org/CPAN/modules/03modlist.data.gz
+Reading '/home/c00cjz00/ncbi/edirect/_cpan/sources/modules/03modlist.data.gz'
+DONE
+Writing /home/c00cjz00/ncbi/edirect/_cpan/Metadata
+HTTP::Cookies is up to date (6.04).
+Found HTTP::Date.
+Found HTTP::Message.
+Found HTTP::Negotiate.
+Found IO::Socket::SSL.
+Found LWP::MediaTypes.
+Found LWP::Protocol::https.
+Found Net::HTTP.
+Found URI.
+Found WWW::RobotRules.
+Found Mozilla::CA.
+Found Time::HiRes.
+Found LWP.
